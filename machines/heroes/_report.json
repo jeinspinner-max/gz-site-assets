@@ -1,0 +1,610 @@
+{
+ "a3hd-hero.png": {
+  "src": "heroes\\GZP-UV_Flatbed__A3HD.png",
+  "subject": [
+   1427,
+   763
+  ],
+  "placed": [
+   1504,
+   804
+  ],
+  "fill_w": 0.78,
+  "fill_h": 0.74,
+  "collection": "GZP-UV Flatbed",
+  "title": "A3HD",
+  "front_on_swap": false
+ },
+ "h6090ep-hero.png": {
+  "src": "heroes\\GZP-UV_Flatbed__H6090EP.png",
+  "subject": [
+   1345,
+   796
+  ],
+  "placed": [
+   1430,
+   846
+  ],
+  "fill_w": 0.74,
+  "fill_h": 0.78,
+  "collection": "GZP-UV Flatbed",
+  "title": "H6090EP",
+  "front_on_swap": false
+ },
+ "h6090ei-hero.png": {
+  "src": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Website\\Machine assets\\Front-PNG\\Front-PNG\\H6090EISquare.png",
+  "subject": [
+   2872,
+   1703
+  ],
+  "placed": [
+   1428,
+   847
+  ],
+  "fill_w": 0.74,
+  "fill_h": 0.78,
+  "collection": "GZP-UV Flatbed",
+  "title": "H6090EI",
+  "front_on_swap": true
+ },
+ "h9060ei-hero.png": {
+  "src": "C:\\CLAUDE\\GongZheng\\gz-site-assets\\machines\\h9060ei-01.webp",
+  "subject": [
+   749,
+   422
+  ],
+  "placed": [
+   1465,
+   826
+  ],
+  "fill_w": 0.76,
+  "fill_h": 0.76,
+  "collection": "GZP-UV Flatbed",
+  "title": "H9060EI",
+  "front_on_swap": true
+ },
+ "h1612ei-hero.png": {
+  "src": "heroes\\GZP-UV_Flatbed__H1612EI.png",
+  "subject": [
+   1918,
+   730
+  ],
+  "placed": [
+   1766,
+   672
+  ],
+  "fill_w": 0.92,
+  "fill_h": 0.62,
+  "collection": "GZP-UV Flatbed",
+  "title": "H1612EI",
+  "front_on_swap": false
+ },
+ "h1612gi-hero.png": {
+  "src": "heroes\\GZP-UV_Flatbed__H1612GI.png",
+  "subject": [
+   1918,
+   730
+  ],
+  "placed": [
+   1766,
+   672
+  ],
+  "fill_w": 0.92,
+  "fill_h": 0.62,
+  "collection": "GZP-UV Flatbed",
+  "title": "H1612GI",
+  "front_on_swap": false
+ },
+ "h2513gn-hero.png": {
+  "src": "heroes\\GZP-UV_Flatbed__H2513GN.png",
+  "subject": [
+   1404,
+   450
+  ],
+  "placed": [
+   1766,
+   566
+  ],
+  "fill_w": 0.92,
+  "fill_h": 0.52,
+  "collection": "GZP-UV Flatbed",
+  "title": "H2513GN",
+  "front_on_swap": false
+ },
+ "h2513gn-pro-hero.png": {
+  "src": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Website\\Machine assets\\Flatbed UV Solutions\\H2513GN&H2513GN PRO\\H2513GN PRO Photos 2024.08\\H2513GN PRO 1.png",
+  "subject": [
+   5727,
+   1837
+  ],
+  "placed": [
+   1766,
+   567
+  ],
+  "fill_w": 0.92,
+  "fill_h": 0.53,
+  "collection": "GZP-UV Flatbed",
+  "title": "H2513GN PRO",
+  "front_on_swap": true
+ },
+ "aq1601uv-hero.png": {
+  "src": "heroes\\GZP-UV-RTR__ThunderJet_AQ1601UV.png",
+  "subject": [
+   1545,
+   662
+  ],
+  "placed": [
+   1680,
+   720
+  ],
+  "fill_w": 0.88,
+  "fill_h": 0.67,
+  "collection": "GZP-UV-RTR",
+  "title": "ThunderJet AQ1601UV",
+  "front_on_swap": false
+ },
+ "aq1602uv-hero.png": {
+  "src": "heroes\\GZP-UV-RTR__ThunderJet_AQ1602UV.png",
+  "subject": [
+   1545,
+   682
+  ],
+  "placed": [
+   1656,
+   731
+  ],
+  "fill_w": 0.86,
+  "fill_h": 0.68,
+  "collection": "GZP-UV-RTR",
+  "title": "ThunderJet AQ1602UV",
+  "front_on_swap": false
+ },
+ "aq1602uvz-hero.png": {
+  "src": "heroes\\GZP-UV-RTR__ThunderJet_AQ1602UVZ.png",
+  "subject": [
+   1545,
+   682
+  ],
+  "placed": [
+   1656,
+   731
+  ],
+  "fill_w": 0.86,
+  "fill_h": 0.68,
+  "collection": "GZP-UV-RTR",
+  "title": "ThunderJet AQ1602UVZ",
+  "front_on_swap": false
+ },
+ "aq1800uv-hero.png": {
+  "src": "heroes\\GZP-UV-RTR__ThunderJet_AQ1800UV.png",
+  "subject": [
+   1328,
+   524
+  ],
+  "placed": [
+   1751,
+   691
+  ],
+  "fill_w": 0.91,
+  "fill_h": 0.64,
+  "collection": "GZP-UV-RTR",
+  "title": "ThunderJet AQ1800UV",
+  "front_on_swap": false
+ },
+ "aq1902uv-hero.png": {
+  "src": "heroes\\GZP-UV-RTR__ThunderJet_AQ1902UV.png",
+  "subject": [
+   1770,
+   759
+  ],
+  "placed": [
+   1680,
+   720
+  ],
+  "fill_w": 0.88,
+  "fill_h": 0.67,
+  "collection": "GZP-UV-RTR",
+  "title": "ThunderJet AQ1902UV",
+  "front_on_swap": false
+ },
+ "aq1902uvz-hero.png": {
+  "src": "heroes\\GZP-UV-RTR__ThunderJet_AQ1902UVZ.png",
+  "subject": [
+   1770,
+   759
+  ],
+  "placed": [
+   1680,
+   720
+  ],
+  "fill_w": 0.88,
+  "fill_h": 0.67,
+  "collection": "GZP-UV-RTR",
+  "title": "ThunderJet AQ1902UVZ",
+  "front_on_swap": false
+ },
+ "aq32uv-hero.png": {
+  "src": "heroes\\GZP-UV-RTR__ThunderJet_AQ32UV.png",
+  "subject": [
+   1643,
+   460
+  ],
+  "placed": [
+   1766,
+   495
+  ],
+  "fill_w": 0.92,
+  "fill_h": 0.46,
+  "collection": "GZP-UV-RTR",
+  "title": "ThunderJet AQ32UV",
+  "front_on_swap": false
+ },
+ "dq1800uv-hero.png": {
+  "src": "heroes\\GZP-UV-Hybrid__ThunderJet_DQ1800UV.png",
+  "subject": [
+   1249,
+   496
+  ],
+  "placed": [
+   1746,
+   693
+  ],
+  "fill_w": 0.91,
+  "fill_h": 0.64,
+  "collection": "GZP-UV-Hybrid",
+  "title": "ThunderJet DQ1800UV",
+  "front_on_swap": false
+ },
+ "hb18uv-pro-hero.png": {
+  "src": "heroes\\GZP-UV-Hybrid__HB18UV_PRO.png",
+  "subject": [
+   1193,
+   410
+  ],
+  "placed": [
+   1766,
+   607
+  ],
+  "fill_w": 0.92,
+  "fill_h": 0.56,
+  "collection": "GZP-UV-Hybrid",
+  "title": "HB18UV PRO",
+  "front_on_swap": false
+ },
+ "pixy-t2-hero.png": {
+  "src": "heroes\\GZP-DTF__Pixy_T2.png",
+  "subject": [
+   1285,
+   870
+  ],
+  "placed": [
+   1308,
+   886
+  ],
+  "fill_w": 0.68,
+  "fill_h": 0.82,
+  "collection": "GZP-DTF",
+  "title": "Pixy T2",
+  "front_on_swap": false
+ },
+ "pixy-t4-hero.png": {
+  "src": "heroes\\GZP-DTF__Pixy_T4.png",
+  "subject": [
+   1276,
+   820
+  ],
+  "placed": [
+   1372,
+   882
+  ],
+  "fill_w": 0.71,
+  "fill_h": 0.82,
+  "collection": "GZP-DTF",
+  "title": "Pixy T4",
+  "front_on_swap": false
+ },
+ "pixy-t5-hero.png": {
+  "src": "heroes\\GZP-DTF__Pixy_T5.png",
+  "subject": [
+   1310,
+   692
+  ],
+  "placed": [
+   1513,
+   799
+  ],
+  "fill_w": 0.79,
+  "fill_h": 0.74,
+  "collection": "GZP-DTF",
+  "title": "Pixy T5",
+  "front_on_swap": false
+ },
+ "pixy-u3-hero.png": {
+  "src": "heroes\\GZP-DTF-UV__Pixy_U3.png",
+  "subject": [
+   1170,
+   696
+  ],
+  "placed": [
+   1426,
+   848
+  ],
+  "fill_w": 0.74,
+  "fill_h": 0.79,
+  "collection": "GZP-DTF-UV",
+  "title": "Pixy U3",
+  "front_on_swap": false
+ },
+ "pixy-u3l-hero.png": {
+  "src": "heroes\\GZP-DTF-UV__Pixy_U3L.png",
+  "subject": [
+   1170,
+   696
+  ],
+  "placed": [
+   1426,
+   848
+  ],
+  "fill_w": 0.74,
+  "fill_h": 0.79,
+  "collection": "GZP-DTF-UV",
+  "title": "Pixy U3L",
+  "front_on_swap": false
+ },
+ "pixy-u3t-hero.png": {
+  "src": "heroes\\GZP-DTF-UV__Pixy_U3T.png",
+  "subject": [
+   1170,
+   696
+  ],
+  "placed": [
+   1426,
+   848
+  ],
+  "fill_w": 0.74,
+  "fill_h": 0.79,
+  "collection": "GZP-DTF-UV",
+  "title": "Pixy U3T",
+  "front_on_swap": false
+ },
+ "pixy-u4-pro-hero.png": {
+  "src": "heroes\\GZP-DTF-UV__Pixy_U4_Pro.png",
+  "subject": [
+   941,
+   556
+  ],
+  "placed": [
+   1431,
+   846
+  ],
+  "fill_w": 0.75,
+  "fill_h": 0.78,
+  "collection": "GZP-DTF-UV",
+  "title": "Pixy U4 Pro",
+  "front_on_swap": false
+ },
+ "thunderjet-aq1601s-hero.png": {
+  "src": "heroes\\GZP-Eco-Solvent__ThunderJet_AQ1601S.png",
+  "subject": [
+   1601,
+   696
+  ],
+  "placed": [
+   1668,
+   725
+  ],
+  "fill_w": 0.87,
+  "fill_h": 0.67,
+  "collection": "GZP-Eco-Solvent",
+  "title": "ThunderJet AQ1601S",
+  "front_on_swap": false
+ },
+ "thunderjet-aq1602s-hero.png": {
+  "src": "heroes\\GZP-Eco-Solvent__ThunderJet_AQ1602S.png",
+  "subject": [
+   1545,
+   667
+  ],
+  "placed": [
+   1674,
+   723
+  ],
+  "fill_w": 0.87,
+  "fill_h": 0.67,
+  "collection": "GZP-Eco-Solvent",
+  "title": "ThunderJet AQ1602S",
+  "front_on_swap": false
+ },
+ "thunderjet-aq1802s-hero.png": {
+  "src": "heroes\\GZP-Eco-Solvent__ThunderJet_AQ1802S.png",
+  "subject": [
+   1618,
+   644
+  ],
+  "placed": [
+   1744,
+   694
+  ],
+  "fill_w": 0.91,
+  "fill_h": 0.64,
+  "collection": "GZP-Eco-Solvent",
+  "title": "ThunderJet AQ1802S",
+  "front_on_swap": false
+ },
+ "thunderjet-aq1804s-hero.png": {
+  "src": "heroes\\GZP-Eco-Solvent__ThunderJet_AQ1804S.png",
+  "subject": [
+   1635,
+   707
+  ],
+  "placed": [
+   1673,
+   723
+  ],
+  "fill_w": 0.87,
+  "fill_h": 0.67,
+  "collection": "GZP-Eco-Solvent",
+  "title": "ThunderJet AQ1804S",
+  "front_on_swap": false
+ },
+ "thunderjet-aq3204s-hero.png": {
+  "src": "heroes\\GZP-Eco-Solvent__ThunderJet_AQ3204S.png",
+  "subject": [
+   1202,
+   352
+  ],
+  "placed": [
+   1766,
+   517
+  ],
+  "fill_w": 0.92,
+  "fill_h": 0.48,
+  "collection": "GZP-Eco-Solvent",
+  "title": "ThunderJet AQ3204S",
+  "front_on_swap": false
+ },
+ "c2302et-plus-hero.png": {
+  "src": "heroes\\GZP-Eco-Solvent__C3202ET_PLUS.png",
+  "subject": [
+   1388,
+   369
+  ],
+  "placed": [
+   1766,
+   470
+  ],
+  "fill_w": 0.92,
+  "fill_h": 0.44,
+  "collection": "GZP-Eco-Solvent",
+  "title": "C3202ET PLUS",
+  "front_on_swap": false
+ },
+ "c2304et-plus-hero.png": {
+  "src": "heroes\\GZP-Eco-Solvent__C3204ET_PLUS.png",
+  "subject": [
+   1388,
+   369
+  ],
+  "placed": [
+   1766,
+   470
+  ],
+  "fill_w": 0.92,
+  "fill_h": 0.44,
+  "collection": "GZP-Eco-Solvent",
+  "title": "C3204ET PLUS",
+  "front_on_swap": false
+ },
+ "apsaras-g2-hero.png": {
+  "src": "heroes\\GZP-Sublimation__Apsaras_G2.png",
+  "subject": [
+   1278,
+   515
+  ],
+  "placed": [
+   1733,
+   698
+  ],
+  "fill_w": 0.9,
+  "fill_h": 0.65,
+  "collection": "GZP-Sublimation",
+  "title": "Apsaras G2",
+  "front_on_swap": false
+ },
+ "apsaras-g4-hero.png": {
+  "src": "heroes\\GZP-Sublimation__Apsaras_G4.png",
+  "subject": [
+   1920,
+   809
+  ],
+  "placed": [
+   1695,
+   714
+  ],
+  "fill_w": 0.88,
+  "fill_h": 0.66,
+  "collection": "GZP-Sublimation",
+  "title": "Apsaras G4",
+  "front_on_swap": false
+ },
+ "apsaras-g4l-hero.png": {
+  "src": "heroes\\GZP-Sublimation__Apsaras_G4L.png",
+  "subject": [
+   1911,
+   757
+  ],
+  "placed": [
+   1748,
+   692
+  ],
+  "fill_w": 0.91,
+  "fill_h": 0.64,
+  "collection": "GZP-Sublimation",
+  "title": "Apsaras G4L",
+  "front_on_swap": false
+ },
+ "apsaras-g4p-hero.png": {
+  "src": "heroes\\GZP-Sublimation__Apsaras_G4P.png",
+  "subject": [
+   1920,
+   781
+  ],
+  "placed": [
+   1725,
+   702
+  ],
+  "fill_w": 0.9,
+  "fill_h": 0.65,
+  "collection": "GZP-Sublimation",
+  "title": "Apsaras G4P",
+  "front_on_swap": false
+ },
+ "apsaras-g4d-max-hero.png": {
+  "src": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Website\\Machine assets\\Textile Solutions\\Apsaras G4D Max\\G4D Max\\G4D Max 1.png",
+  "subject": [
+   6818,
+   1571
+  ],
+  "placed": [
+   1766,
+   407
+  ],
+  "fill_w": 0.92,
+  "fill_h": 0.38,
+  "collection": "GZP-Sublimation",
+  "title": "Apsaras G4D Max",
+  "front_on_swap": true
+ },
+ "apsaras-g5-hero.png": {
+  "src": "C:\\CLAUDE\\GongZheng\\Imports\\Shadow-Images\\G5\\Apsaras G5 1.png",
+  "subject": [
+   5572,
+   2129
+  ],
+  "placed": [
+   1766,
+   675
+  ],
+  "fill_w": 0.92,
+  "fill_h": 0.62,
+  "collection": "GZP-Sublimation",
+  "title": "Apsaras G5",
+  "front_on_swap": true
+ },
+ "apsaras-g5-max-hero.png": {
+  "src": "heroes\\GZP-Sublimation__Apsaras_G5_Max.png",
+  "subject": [
+   1911,
+   569
+  ],
+  "placed": [
+   1766,
+   526
+  ],
+  "fill_w": 0.92,
+  "fill_h": 0.49,
+  "collection": "GZP-Sublimation",
+  "title": "Apsaras G5 Max",
+  "front_on_swap": false
+ }
+}
