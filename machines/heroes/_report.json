@@ -606,5 +606,21 @@
   "collection": "GZP-Sublimation",
   "title": "Apsaras G5 Max",
   "front_on_swap": false
+ },
+ "hb18uv-hero.png": {
+  "src": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Website\\Machine assets\\Hybrid UV Solutions\\HB18UV\\Photos 2026.07.25\\HB18UV 20260623.1.png",
+  "subject": [
+   6125,
+   2053
+  ],
+  "placed": [
+   1766,
+   592
+  ],
+  "fill_w": 0.92,
+  "fill_h": 0.55,
+  "collection": "GZP-UV-Hybrid",
+  "title": "HB18UV",
+  "front_on_swap": false
  }
 }
