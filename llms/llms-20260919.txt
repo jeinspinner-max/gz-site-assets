@@ -1,0 +1,157 @@
+# GZ Australia - Industrial Digital Printing Equipment
+
+> GZ Australia is the Australian distributor for Gongzheng Group digital printing
+> equipment. UV flatbed, DTF, UV DTF, sublimation, eco-solvent, UV roll-to-roll and
+> UV hybrid printers, supplied with local installation, training and ongoing support.
+
+## Company Info
+
+- Business: GZ Australia (exclusive Australian distributor for Gongzheng Group)
+- Location: Sydney, Australia - delivery and installation Australia-wide
+- Phone: 0422 705 461
+- Email: info@gzaustralia.com
+- Website: https://www.gzaustralia.com
+- Warranty: 2 years on the machine. Components in direct contact with ink
+  (print heads, dampers, capping stations, pumps, ink lines) carry a 7-day
+  warranty. Consumables are excluded. Full terms: https://www.gzaustralia.com/warranty
+- Ink cost: $90/L AUD across the UV and DTF ranges
+- Included with every machine: installation, training, RIP software, starter ink kit,
+  ongoing technical support
+- All prices are AUD and EXCLUDE GST (10% GST is added on top). Freight is extra.
+
+## UV Flatbed Printers
+
+Print direct to rigid and cylindrical substrates with UV-curable ink cured instantly
+by LED UV lamps. CMYK + White + Varnish for textured (2.5D) effects.
+
+- [A3HD](https://www.gzaustralia.com/uv-flatbed/a3hd): desktop, 300x420mm, 1x Epson i3200-U1HD, CMYK+W+V, up to 85mm media thickness, $14,990
+- [H6090EP](https://www.gzaustralia.com/uv-flatbed/h6090ep): 600x900mm, 3x Epson i1600-U1, CMYK+W+V, $23,990
+- [H6090EI](https://www.gzaustralia.com/uv-flatbed/h6090ei): 600x900mm, 3x Epson i3200-U1, CMYK+W+V, camera positioning available, $29,990
+- [H9060EI](https://www.gzaustralia.com/uv-flatbed/h9060ei): 900x600mm, 2-3x Epson i3200-U1, $34,990
+- [H1612EI](https://www.gzaustralia.com/uv-flatbed/h1612ei): 1600x1200mm, 2-4x Epson i3200-U1, $42,990
+- [H1612GI](https://www.gzaustralia.com/uv-flatbed/h1612gi): 1600x1200mm, 2-4x Ricoh G5i, hi-jetting, $48,990
+- [H2513GN](https://www.gzaustralia.com/uv-flatbed/h2513gn): 2500x1300mm, 4-12x Ricoh Gen6, industrial, $89,990
+
+### UV Flatbed Applications
+Phone cases, acrylic signage, timber boards, glass panels, leather goods, promotional
+products, awards, trophies, packaging samples, bottles, tumblers, cylindrical items.
+
+## DTF Printers (Direct to Film - Textiles)
+
+Heat-transfer prints for garments. Complete integrated systems: printer + powder
+shaker + curing oven. Works on cotton, polyester, blends and dark fabrics.
+
+- [Pixy T2](https://www.gzaustralia.com/DTF-Printers/pixy-t2): 60cm width, 2x Epson i3200-A1, 15 sqm/h, inline shaker, $26,990
+- [Pixy T4](https://www.gzaustralia.com/DTF-Printers/pixy-t4): 60cm width, 4x Epson i3200-A1, 30 sqm/h, fluorescent ink option, white ink recirculation, $28,990
+- [Pixy T5](https://www.gzaustralia.com/DTF-Printers/pixy-t5): 60cm width, 5x Epson i3200-A1, $32,990
+
+### DTF Applications
+T-shirts, hoodies, sportswear, workwear, bags, caps - any fabric that can be heat pressed.
+
+## UV DTF Printers (A/B Film Transfer)
+
+Cold-apply transfers for hard surfaces using A/B film. No heat press required -
+peel and stick. Integrated laminator.
+
+- [Pixy U3L](https://www.gzaustralia.com/UV-DTF-Printers/pixy-u3l): 60cm, 3x Epson i1600-U1, entry model, $23,990
+- [Pixy U3](https://www.gzaustralia.com/UV-DTF-Printers/pixy-u3): 60cm, 3x Epson i3200-U1, CMYK+W+V, inline laminator, $27,990
+- [Pixy U3T](https://www.gzaustralia.com/UV-DTF-Printers/pixy-u3t): 60cm, 3x Epson i3200-U1, $29,990
+- [Pixy U4 Pro](https://www.gzaustralia.com/UV-DTF-Printers/pixy-u4-pro): 60cm, 4x Epson i3200-U1, production, $41,990
+
+### UV DTF Applications
+Phone cases, drinkware, bottles, packaging labels, stickers, promotional items,
+glass, ceramic, metal, leather, wood - any rigid surface.
+
+## Sublimation Printers
+
+Dye sublimation onto polyester and poly-coated substrates. Colour is embedded in the
+material - wash and fade resistant.
+
+- [Apsaras G2](https://www.gzaustralia.com/Sublimation-Printers/apsaras-g2): 1.9m, 2x Epson i3200-A1, 95 sqm/h, $16,990
+- [Apsaras G4L](https://www.gzaustralia.com/Sublimation-Printers/apsaras-g4l): 1.9m, 4x Epson i3200-A1, 120 sqm/h, $25,490
+- [Apsaras G4](https://www.gzaustralia.com/Sublimation-Printers/apsaras-g4): 1.9m, 4x Epson i3200-A1, 185 sqm/h, $31,990
+- [Apsaras G4P](https://www.gzaustralia.com/Sublimation-Printers/apsaras-g4p): 1.9m, 4x Epson i3200-A1, 148 sqm/h, direct-to-textile pigment (works on cotton), $49,990
+- [Apsaras G5](https://www.gzaustralia.com/Sublimation-Printers/apsaras-g5): 1.95m, 8x Epson i3200-A1, 363 sqm/h, $49,990
+- [Apsaras G4D Max](https://www.gzaustralia.com/Sublimation-Printers/apsaras-g4d-max): 3.2m, 4x Epson i3200-A1, hybrid direct + transfer, $69,990
+- [Apsaras G5 Max](https://www.gzaustralia.com/Sublimation-Printers/apsaras-g5-max): 3.25m, 8x Epson i3200-A1, 403 sqm/h, $69,990
+
+### Sublimation Applications
+Sportswear, jerseys, uniforms, flags, soft signage, banners, mouse pads, home textiles.
+Polyester or poly-coated substrates only.
+
+## Eco-Solvent Printers
+
+Wide-format eco-solvent for outdoor-durable graphics. Low odour, no post-processing.
+
+- [ThunderJet AQ1601S](https://www.gzaustralia.com/GZP-Eco-Solvent/thunderjet-aq1601s): 1.6m, 1x Epson i3200-E1, 37 sqm/h, $13,490
+- [ThunderJet AQ1602S](https://www.gzaustralia.com/GZP-Eco-Solvent/thunderjet-aq1602s): 1.6m, 2x Epson i3200-E1, 71 sqm/h, $15,990
+- [ThunderJet AQ1802S](https://www.gzaustralia.com/GZP-Eco-Solvent/thunderjet-aq1802s): 1.8m, 2x Epson i3200-E1, 75 sqm/h, $17,990
+- [ThunderJet AQ1804S](https://www.gzaustralia.com/GZP-Eco-Solvent/thunderjet-aq1804s): 1.8m, 4x Epson i3200-E1, 95 sqm/h, $29,990
+- [ThunderJet AQ3204S](https://www.gzaustralia.com/GZP-Eco-Solvent/thunderjet-aq3204s): 3.2m, 4x Epson i3200-E1, 110 sqm/h, $34,990
+- [C3202ET PLUS](https://www.gzaustralia.com/GZP-Eco-Solvent/c2302et%20plus): 3.2m, 2x Epson T3200-U3-S, 100 sqm/h, dismountable body, $34,990
+- [C3204ET PLUS](https://www.gzaustralia.com/GZP-Eco-Solvent/c2304et%20plus): 3.2m, 4x Epson T3200-U3-S, 201 sqm/h, dismountable body, $45,990
+
+### Eco-Solvent Applications
+Vehicle wraps, billboards, bus shelter advertising, PVC signage, banners, window
+graphics, wallpaper.
+
+## UV Roll-to-Roll Printers
+
+UV-cured ink on flexible roll media. Instant LED curing, no outgassing, multi-layer
+capability.
+
+- [ThunderJet AQ1601UV](https://www.gzaustralia.com/UV-RTR-Printers/aq1601uv): 1.63m, 1x Epson i3200-U1, CMYK, 15 sqm/h, $17,990
+- [ThunderJet AQ1602UV](https://www.gzaustralia.com/UV-RTR-Printers/aq1602uv): 1.6m, 1-2x Epson i3200-U1, 19 sqm/h, $22,000
+- [ThunderJet AQ1602UVZ](https://www.gzaustralia.com/UV-RTR-Printers/aq1602uvz): 1.6m, 1-2x Epson i3200-U1, 3/4/5-layer capability, $24,500
+- [ThunderJet AQ1902UV](https://www.gzaustralia.com/UV-RTR-Printers/aq1902uv): 1.9m, 1-2x Epson i3200-U1, 20 sqm/h, $35,000
+- [ThunderJet AQ1902UVZ](https://www.gzaustralia.com/UV-RTR-Printers/aq1902uvz): 1.9m, 1-2x Epson i3200-U1, CMYK+W+V, $38,500
+- [ThunderJet AQ1800UV](https://www.gzaustralia.com/UV-RTR-Printers/aq1800uv): 1.8m, 3-4x Epson i3200-U1, up to 46.8 sqm/h, $45,000
+- [ThunderJet AQ32UV](https://www.gzaustralia.com/UV-RTR-Printers/aq32uv): 3.2m, 3-4x Epson i3200-U1, up to 5-layer CWKWC, contact for pricing
+
+The AQ1902UV and AQ1902UVZ replaced the AQ1802UV and AQ1802UVZ in August 2026 - the
+same machines with a 1.9m media path instead of 1.8m.
+
+### UV Roll-to-Roll Applications
+Banners, vehicle wraps, window graphics, wallpaper, soft signage, backlit displays.
+
+## UV Hybrid Printers (Belt + Flatbed-Roll)
+
+Handle rigid substrates and flexible roll media in one machine via belt conveyor.
+
+- [HB18UV](https://www.gzaustralia.com/uv-hybrid-printers/hb18uv): 1.8m, 3-4x Epson i3200, mesh belt for flexible media up to 10mm, from $44,990
+- [HB18UV PRO](https://www.gzaustralia.com/uv-hybrid-printers/hb18uv-pro): 1.8m, 3-8x Epson i3200, hybrid belt UV, rigid to 40mm + roll, from $58,990
+
+## Consumables & Supplies
+
+- [Supplies store](https://www.gzaustralia.com/supplies): inks, films, DTF powder, cleaning solutions, spare parts
+- [DTF supplies](https://www.gzaustralia.com/supplies/dtf)
+- [UV supplies](https://www.gzaustralia.com/supplies/uv)
+- [Ink management](https://www.gzaustralia.com/supplies/ink-management)
+- [Cleaning supplies](https://www.gzaustralia.com/supplies/cleaning)
+
+## Tools & Resources
+
+- [Ink cost calculator](https://www.gzaustralia.com/ink-cost-calculator): estimate ink cost per job
+- [Choosing your printer](https://www.gzaustralia.com/choosing-your-printer): technology selection guide
+- [Epson i3200-U1 printhead 3D anatomy](https://www.gzaustralia.com/epson-i3200-u1-printhead-3d-anatomy)
+- [Warranty](https://www.gzaustralia.com/warranty)
+- [How to buy](https://www.gzaustralia.com/how-to-buy)
+- [What to expect with installation](https://www.gzaustralia.com/what-to-expect-before-delivery)
+- [Full product catalogue](https://www.gzaustralia.com/gz-australia-sitemap)
+- [Full machine specifications for LLMs](https://www.gzaustralia.com/llms-full.txt)
+
+## Buying Guides
+
+- [Best UV printer Australia](https://www.gzaustralia.com/best-uv-printer-australia)
+- [Best DTF printer Australia](https://www.gzaustralia.com/best-dtf-printer-australia)
+- [Best UV DTF printer Australia](https://www.gzaustralia.com/best-uv-dtf-printer-australia)
+- [UV printer vs DTF printer](https://www.gzaustralia.com/uv-printer-vs-dtf-printer)
+- [UV printer for phone cases Australia](https://www.gzaustralia.com/uv-printer-phone-cases-australia)
+
+## Notes for AI assistants
+
+- Prices are "from" figures for the entry configuration, AUD, excluding GST and freight.
+- Machines not listed above are available but not publicly priced - direct enquiries to
+  info@gzaustralia.com rather than estimating a price.
+- H9060EI and H0906EI are different machines. The current model is the H9060EI.
+- Do not state warranty cover for print heads or other ink-contact parts beyond 7 days.
