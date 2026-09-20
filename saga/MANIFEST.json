@@ -1,0 +1,1065 @@
+{
+ "generated_by": "C:/CLAUDE/SagaCNC/duda/stage_page_assets.py",
+ "rights": {
+  "clean": "factory brochure/folder image, no watermark; needs Frank's written clearance before publish",
+  "watermarked": "sagacnc.com website photo, tiled SAGA watermark - PREVIEW ONLY, never publish",
+  "card": "GZ listing number-card stand-in, no machine photo exists"
+ },
+ "skus": {
+  "ASF420": {
+   "collection": "GZP-Flatbed-Cutters",
+   "name": "SAGA ASF420 Auto Sheet-Feed Flatbed Cutter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "clean",
+    "source": "C:\\CLAUDE\\SagaCNC\\brochure_images\\ready_cleared_by_eye\\ASF420_hero.jpeg",
+    "note": "brochure hero, 769x603 source - soft when upscaled; replace when the factory folder lands",
+    "reframe": {
+     "src": "C:\\CLAUDE\\SagaCNC\\brochure_images\\ready_cleared_by_eye\\ASF420_hero.jpeg",
+     "subject": [
+      769,
+      603
+     ],
+     "placed": [
+      1129,
+      886
+     ],
+     "fill_w": 0.59,
+     "fill_h": 0.82
+    }
+   },
+   "gallery": [
+    {
+     "file": "gallery-01.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASF420\\ASF420_02_gallery01.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-02.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASF420\\ASF420_03_gallery02.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-03.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASF420\\ASF420_04_gallery03.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-04.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASF420\\ASF420_05_gallery04.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-05.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASF420\\ASF420_06_gallery05.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    }
+   ],
+   "brochure": {
+    "file": "ASF420_brochure.pdf",
+    "tier": "clean",
+    "source": "C:\\CLAUDE\\SagaCNC\\harvest\\docs\\ASF420_id1_Auto_Sheet_Feeding_Flatbed_Cutter.pdf"
+   }
+  },
+  "FC6290-DTF": {
+   "collection": "GZP-Flatbed-Cutters",
+   "name": "SAGA FC6290 DTF Cutter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "card",
+    "source": "C:\\CLAUDE\\SagaCNC\\duda\\listing_upload\\FC6290-DTF_hero.png",
+    "note": "no SAGA photograph exists for this model - GZ listing number-card as a temporary stand-in (brand exception pending Jake)"
+   },
+   "gallery": [],
+   "brochure": null
+  },
+  "FC9012": {
+   "collection": "GZP-Flatbed-Cutters",
+   "name": "SAGA FC9012 Flatbed Cutter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "card",
+    "source": "C:\\CLAUDE\\SagaCNC\\duda\\listing_upload\\FC9012_hero.png",
+    "note": "no SAGA photograph exists for this model - GZ listing number-card as a temporary stand-in (brand exception pending Jake)"
+   },
+   "gallery": [],
+   "brochure": null
+  },
+  "FC320480": {
+   "collection": "GZP-Flatbed-Cutters",
+   "name": "SAGA FC320480 Flatbed Cutter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "watermarked",
+    "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\FC320480\\FC320480_01_hero.jpg",
+    "note": "own website record",
+    "reframe": {
+     "src": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\FC320480\\FC320480_01_hero.jpg",
+     "subject": [
+      6016,
+      4016
+     ],
+     "placed": [
+      1327,
+      886
+     ],
+     "fill_w": 0.69,
+     "fill_h": 0.82
+    }
+   },
+   "gallery": [
+    {
+     "file": "gallery-01.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\FC320480\\FC320480_02_gallery01.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-02.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\FC320480\\FC320480_03_gallery02.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-03.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\FC320480\\FC320480_04_gallery03.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-04.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\FC320480\\FC320480_05_gallery04.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-05.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\FC320480\\FC320480_06_gallery05.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    }
+   ],
+   "brochure": null
+  },
+  "FC9012-FEEDER": {
+   "collection": "GZP-Flatbed-Cutters",
+   "name": "SAGA FC9012 Flatbed Cutter with Pallet Feeder",
+   "hero": {
+    "file": "hero.png",
+    "tier": "card",
+    "source": "C:\\CLAUDE\\SagaCNC\\duda\\listing_upload\\FC9012-FEEDER_hero.png",
+    "note": "no SAGA photograph exists for this model - GZ listing number-card as a temporary stand-in (brand exception pending Jake)"
+   },
+   "gallery": [],
+   "brochure": null
+  },
+  "FCT4866": {
+   "collection": "GZP-Flatbed-Cutters",
+   "name": "SAGA FCT4866 Flatbed Cutter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "card",
+    "source": "C:\\CLAUDE\\SagaCNC\\duda\\listing_upload\\FCT4866_hero.png",
+    "note": "no SAGA photograph exists for this model - GZ listing number-card as a temporary stand-in (brand exception pending Jake)"
+   },
+   "gallery": [],
+   "brochure": null
+  },
+  "FCT6698": {
+   "collection": "GZP-Flatbed-Cutters",
+   "name": "SAGA FCT6698 Flatbed Cutter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "clean",
+    "source": "C:\\CLAUDE\\SagaCNC\\brochure_images\\ready_cleared_by_eye\\FCT6698_hero.png",
+    "note": "brochure hero; factory-folder chassis photos HELD (build mismatch, sku_table asset_hold)",
+    "reframe": {
+     "src": "C:\\CLAUDE\\SagaCNC\\brochure_images\\ready_cleared_by_eye\\FCT6698_hero.png",
+     "subject": [
+      1115,
+      912
+     ],
+     "placed": [
+      1083,
+      886
+     ],
+     "fill_w": 0.56,
+     "fill_h": 0.82
+    }
+   },
+   "gallery": [
+    {
+     "file": "gallery-01.jpg",
+     "tier": "clean",
+     "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\6698\\6698\\FCT6698_tool-head_four-tool_closeup.jpg",
+     "size": [
+      1600,
+      1041
+     ]
+    },
+    {
+     "file": "gallery-02.jpg",
+     "tier": "clean",
+     "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\6698\\6698\\FCT6698_tool-head_cutting_closeup.jpg",
+     "size": [
+      1600,
+      1091
+     ]
+    },
+    {
+     "file": "gallery-03.jpg",
+     "tier": "clean",
+     "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\6698\\6698\\FCT6698_samples_packaging-boxes_2023-04-23.jpg",
+     "size": [
+      1200,
+      1600
+     ]
+    },
+    {
+     "file": "gallery-04.jpg",
+     "tier": "clean",
+     "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\6698\\6698\\FCT6698_power-switch.jpg",
+     "size": [
+      1600,
+      1200
+     ]
+    },
+    {
+     "file": "gallery-05.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\FCT6698\\FCT6698_02_gallery01.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-06.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\FCT6698\\FCT6698_03_gallery02.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-07.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\FCT6698\\FCT6698_04_gallery03.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-08.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\FCT6698\\FCT6698_05_gallery04.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-09.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\FCT6698\\FCT6698_06_gallery05.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    }
+   ],
+   "brochure": {
+    "file": "FCT6698_brochure.pdf",
+    "tier": "clean",
+    "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\6698\\6698\\FCT6698_brochure.pdf"
+   }
+  },
+  "ASC1907A": {
+   "collection": "GZP-Sheet-Cutters",
+   "name": "SAGA ASC1907A Adsorbed Sheet Cutter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "clean",
+    "source": "C:\\CLAUDE\\SagaCNC\\brochure_images\\candidates\\id43_id43___________SC-A21907A1\\01_s100_1305x1370.jpeg",
+    "note": "brochure titled SC-A2 1907A - same website record the row's specs come from; code form differs (ask Frank)",
+    "reframe": {
+     "src": "C:\\CLAUDE\\SagaCNC\\brochure_images\\candidates\\id43_id43___________SC-A21907A1\\01_s100_1305x1370.jpeg",
+     "subject": [
+      1287,
+      1368
+     ],
+     "placed": [
+      833,
+      886
+     ],
+     "fill_w": 0.43,
+     "fill_h": 0.82
+    }
+   },
+   "gallery": [
+    {
+     "file": "gallery-01.jpg",
+     "tier": "clean",
+     "source": "C:\\CLAUDE\\SagaCNC\\brochure_images\\candidates\\id43_id43___________SC-A21907A1\\04_s78_1066x711.jpeg",
+     "size": [
+      1066,
+      711
+     ]
+    },
+    {
+     "file": "gallery-02.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC1907A\\ASC1907A_02_gallery01.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-03.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC1907A\\ASC1907A_03_gallery02.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-04.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC1907A\\ASC1907A_04_gallery03.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-05.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC1907A\\ASC1907A_05_gallery04.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-06.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC1907A\\ASC1907A_06_gallery05.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    }
+   ],
+   "brochure": {
+    "file": "ASC1907A_brochure.pdf",
+    "tier": "clean",
+    "source": "C:\\CLAUDE\\SagaCNC\\harvest\\docs\\id43_id43_英文吸附式单张模切机SC-A21907A1.pdf"
+   }
+  },
+  "ASC530A01": {
+   "collection": "GZP-Sheet-Cutters",
+   "name": "SAGA ASC530A01 Adsorbed Sheet Cutter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "clean",
+    "source": "C:\\CLAUDE\\SagaCNC\\brochure_images\\ready_cleared_by_eye\\ASC530A01_hero.png",
+    "note": "brochure hero ASC530A01",
+    "reframe": {
+     "src": "C:\\CLAUDE\\SagaCNC\\brochure_images\\ready_cleared_by_eye\\ASC530A01_hero.png",
+     "subject": [
+      1197,
+      1330
+     ],
+     "placed": [
+      797,
+      886
+     ],
+     "fill_w": 0.42,
+     "fill_h": 0.82
+    }
+   },
+   "gallery": [
+    {
+     "file": "gallery-01.jpg",
+     "tier": "clean",
+     "source": "C:\\CLAUDE\\SagaCNC\\brochure_images\\candidates\\id33_id33_ASC530A01__\\03_s78_878x586.png",
+     "size": [
+      878,
+      586
+     ]
+    },
+    {
+     "file": "gallery-02.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC530A01\\ASC530A01_02_gallery01.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-03.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC530A01\\ASC530A01_03_gallery02.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-04.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC530A01\\ASC530A01_04_gallery03.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-05.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC530A01\\ASC530A01_05_gallery04.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-06.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC530A01\\ASC530A01_06_gallery05.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    }
+   ],
+   "brochure": {
+    "file": "ASC530A01_brochure.pdf",
+    "tier": "clean",
+    "source": "C:\\CLAUDE\\SagaCNC\\harvest\\docs\\id33_id33_ASC530A01英文.pdf"
+   }
+  },
+  "ASC2301A": {
+   "collection": "GZP-Sheet-Cutters",
+   "name": "SAGA ASC2301A Adsorbed Sheet Cutter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "watermarked",
+    "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC2301A\\ASC2301A_01_hero.jpg",
+    "note": "only clean brochure hero is 654x566 (too small); website photo used for preview",
+    "reframe": {
+     "src": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC2301A\\ASC2301A_01_hero.jpg",
+     "subject": [
+      6016,
+      4016
+     ],
+     "placed": [
+      1327,
+      886
+     ],
+     "fill_w": 0.69,
+     "fill_h": 0.82
+    }
+   },
+   "gallery": [
+    {
+     "file": "gallery-01.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC2301A\\ASC2301A_02_gallery01.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-02.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC2301A\\ASC2301A_03_gallery02.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-03.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC2301A\\ASC2301A_04_gallery03.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-04.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC2301A\\ASC2301A_05_gallery04.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    }
+   ],
+   "brochure": {
+    "file": "ASC2301A_brochure.pdf",
+    "tier": "clean",
+    "source": "C:\\CLAUDE\\SagaCNC\\harvest\\docs\\id28_id28_吸附式自动扫点模切机2301A吸附式.pdf"
+   }
+  },
+  "ASC2312": {
+   "collection": "GZP-Sheet-Cutters",
+   "name": "SAGA ASC2312 Adsorbed Sheet Cutter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "clean",
+    "source": "C:\\CLAUDE\\SagaCNC\\brochure_images\\ready_cleared_by_eye\\ASC2312_hero.jpeg",
+    "note": "brochure hero SG-ASC2312, 2768x1848",
+    "reframe": {
+     "src": "C:\\CLAUDE\\SagaCNC\\brochure_images\\ready_cleared_by_eye\\ASC2312_hero.jpeg",
+     "subject": [
+      1093,
+      1456
+     ],
+     "placed": [
+      665,
+      886
+     ],
+     "fill_w": 0.35,
+     "fill_h": 0.82
+    }
+   },
+   "gallery": [
+    {
+     "file": "gallery-01.jpg",
+     "tier": "clean",
+     "source": "C:\\CLAUDE\\SagaCNC\\brochure_images\\candidates\\id20_id20_ADSORBED_SHEET_CUTTER_SG-ASC2312\\04_s78_1950x1302.jpeg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-02.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC2312\\ASC2312_02_gallery01.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-03.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC2312\\ASC2312_03_gallery02.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-04.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC2312\\ASC2312_04_gallery03.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-05.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC2312\\ASC2312_05_gallery04.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-06.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\ASC2312\\ASC2312_06_gallery05.jpg",
+     "size": [
+      1600,
+      1283
+     ]
+    }
+   ],
+   "brochure": {
+    "file": "ASC2312_brochure.pdf",
+    "tier": "clean",
+    "source": "C:\\CLAUDE\\SagaCNC\\harvest\\docs\\id20_id20_ADSORBED_SHEET_CUTTER_SG-ASC2312.pdf"
+   }
+  },
+  "SC30IIPRO-PLUS": {
+   "collection": "GZP-Sheet-Cutters",
+   "name": "SAGA SC30II PRO+ Sheet Cutter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "watermarked",
+    "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\SC30IIPRO-PLUS\\SC30IIPRO-PLUS_02_gallery01.jpg",
+    "note": "no cut-out hero in the brochure; PRO vs PRO+ unresolved; website _01 has a burned-in caption so _02 used",
+    "reframe": {
+     "src": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\SC30IIPRO-PLUS\\SC30IIPRO-PLUS_02_gallery01.jpg",
+     "subject": [
+      6016,
+      4016
+     ],
+     "placed": [
+      1327,
+      886
+     ],
+     "fill_w": 0.69,
+     "fill_h": 0.82
+    }
+   },
+   "gallery": [
+    {
+     "file": "gallery-01.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\SC30IIPRO-PLUS\\SC30IIPRO-PLUS_02_gallery01.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-02.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\SC30IIPRO-PLUS\\SC30IIPRO-PLUS_03_gallery02.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-03.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\SC30IIPRO-PLUS\\SC30IIPRO-PLUS_04_gallery03.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-04.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\SC30IIPRO-PLUS\\SC30IIPRO-PLUS_05_gallery04.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-05.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\SC30IIPRO-PLUS\\SC30IIPRO-PLUS_06_gallery05.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    }
+   ],
+   "brochure": {
+    "file": "SC30IIPRO-PLUS_brochure.pdf",
+    "tier": "clean",
+    "source": "C:\\CLAUDE\\SagaCNC\\harvest\\docs\\SC30IIPRO_id27_ESC516A01英文1.pdf"
+   }
+  },
+  "SAGA-1400IIP": {
+   "collection": "GZP-Cutting-Plotters",
+   "name": "SAGA 1400IIP Cutting Plotter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "clean",
+    "source": "C:\\CLAUDE\\SagaCNC\\brochure_images\\candidates\\id40_id40____1400c__\\01_s100_1473x1051.png",
+    "note": "brochure titled 1400c - same website record the row's specs come from; c vs IIP (ask Frank)",
+    "reframe": {
+     "src": "C:\\CLAUDE\\SagaCNC\\brochure_images\\candidates\\id40_id40____1400c__\\01_s100_1473x1051.png",
+     "subject": [
+      1423,
+      993
+     ],
+     "placed": [
+      1269,
+      886
+     ],
+     "fill_w": 0.66,
+     "fill_h": 0.82
+    }
+   },
+   "gallery": [
+    {
+     "file": "gallery-01.jpg",
+     "tier": "clean",
+     "source": "C:\\CLAUDE\\SagaCNC\\brochure_images\\candidates\\id40_id40____1400c__\\02_s100_812x542.png",
+     "size": [
+      812,
+      542
+     ]
+    },
+    {
+     "file": "gallery-02.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\SAGA-1400IIP\\SAGA-1400IIP_02_gallery01.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-03.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\SAGA-1400IIP\\SAGA-1400IIP_03_gallery02.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-04.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\SAGA-1400IIP\\SAGA-1400IIP_04_gallery03.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-05.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\SAGA-1400IIP\\SAGA-1400IIP_05_gallery04.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-06.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\SAGA-1400IIP\\SAGA-1400IIP_06_gallery05.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    }
+   ],
+   "brochure": {
+    "file": "SAGA-1400IIP_brochure.pdf",
+    "tier": "clean",
+    "source": "C:\\CLAUDE\\SagaCNC\\harvest\\docs\\id40_id40_收送纸1400c英文.pdf"
+   }
+  },
+  "SAGA-1800IIP": {
+   "collection": "GZP-Cutting-Plotters",
+   "name": "SAGA 1800IIP Cutting Plotter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "card",
+    "source": "generated",
+    "note": "no SAGA photograph and its listing card is HELD - plain text stand-in"
+   },
+   "gallery": [],
+   "brochure": null
+  },
+  "CPF900IICAM": {
+   "collection": "GZP-Cutting-Plotters",
+   "name": "SAGA CPF900IICAM UV DTF Plotter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "watermarked",
+    "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\CPF900IICAM\\CPF900IICAM_01_hero.jpg",
+    "note": "website record CPF900IIPCAM - the row already borrows its specs; code differs by a letter (ask Frank)",
+    "reframe": {
+     "src": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\CPF900IICAM\\CPF900IICAM_01_hero.jpg",
+     "subject": [
+      6016,
+      4016
+     ],
+     "placed": [
+      1327,
+      886
+     ],
+     "fill_w": 0.69,
+     "fill_h": 0.82
+    }
+   },
+   "gallery": [
+    {
+     "file": "gallery-01.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\CPF900IICAM\\CPF900IICAM_02_gallery01.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-02.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\CPF900IICAM\\CPF900IICAM_03_gallery02.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-03.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\CPF900IICAM\\CPF900IICAM_04_gallery03.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    }
+   ],
+   "brochure": null
+  },
+  "SAGA-720IIP": {
+   "collection": "GZP-Cutting-Plotters",
+   "name": "SAGA 720IIP Cutting Plotter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "card",
+    "source": "C:\\CLAUDE\\SagaCNC\\duda\\listing_upload\\SAGA-720IIP_hero.png",
+    "note": "no SAGA photograph exists for this model - GZ listing number-card as a temporary stand-in (brand exception pending Jake)"
+   },
+   "gallery": [],
+   "brochure": null
+  },
+  "TM1600B-XY": {
+   "collection": "GZP-Trimmers",
+   "name": "SAGA 1600B XY Trimmer",
+   "hero": {
+    "file": "hero.png",
+    "tier": "clean",
+    "source": "C:\\CLAUDE\\SagaCNC\\brochure_images\\candidates\\id24_id24_1600B\\01_s100_1693x935.jpeg",
+    "note": "brochure titled 1600B - XY suffix unconfirmed (ask Frank)",
+    "reframe": {
+     "src": "C:\\CLAUDE\\SagaCNC\\brochure_images\\candidates\\id24_id24_1600B\\01_s100_1693x935.jpeg",
+     "subject": [
+      1693,
+      935
+     ],
+     "placed": [
+      1480,
+      817
+     ],
+     "fill_w": 0.77,
+     "fill_h": 0.76
+    }
+   },
+   "gallery": [
+    {
+     "file": "gallery-01.jpg",
+     "tier": "clean",
+     "source": "C:\\CLAUDE\\SagaCNC\\brochure_images\\candidates\\id24_id24_1600B\\04_s78_731x487.jpeg",
+     "size": [
+      731,
+      487
+     ]
+    }
+   ],
+   "brochure": null
+  },
+  "TM800B-DTF-BRIDGE": {
+   "collection": "GZP-Trimmers",
+   "name": "SAGA 800B DTF Trimmer with Shaker Bridge",
+   "hero": {
+    "file": "hero.png",
+    "tier": "card",
+    "source": "C:\\CLAUDE\\SagaCNC\\duda\\listing_upload\\TM800B-DTF-BRIDGE_hero.png",
+    "note": "no SAGA photograph exists for this model - GZ listing number-card as a temporary stand-in (brand exception pending Jake)"
+   },
+   "gallery": [],
+   "brochure": null
+  },
+  "TM800B-DTF": {
+   "collection": "GZP-Trimmers",
+   "name": "SAGA 800B DTF Trimmer",
+   "hero": {
+    "file": "hero.png",
+    "tier": "card",
+    "source": "C:\\CLAUDE\\SagaCNC\\duda\\listing_upload\\TM800B-DTF_hero.png",
+    "note": "no SAGA photograph exists for this model - GZ listing number-card as a temporary stand-in (brand exception pending Jake)"
+   },
+   "gallery": [],
+   "brochure": null
+  },
+  "LC2409A": {
+   "collection": "GZP-Label-Cutters",
+   "name": "SAGA 2409A Roll-to-Roll Label Cutter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "watermarked",
+    "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\LC2409A\\LC2409A_02_gallery01.jpg",
+    "note": "own website record (the clean 6016px brochure hero is the LC2409B - not used); website _01 has a burned-in caption so _02 used",
+    "reframe": {
+     "src": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\LC2409A\\LC2409A_02_gallery01.jpg",
+     "subject": [
+      6016,
+      4016
+     ],
+     "placed": [
+      1327,
+      886
+     ],
+     "fill_w": 0.69,
+     "fill_h": 0.82
+    }
+   },
+   "gallery": [
+    {
+     "file": "gallery-01.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\LC2409A\\LC2409A_02_gallery01.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-02.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\LC2409A\\LC2409A_03_gallery02.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-03.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\LC2409A\\LC2409A_04_gallery03.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-04.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\LC2409A\\LC2409A_05_gallery04.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    }
+   ],
+   "brochure": null
+  },
+  "LC30PRO-A": {
+   "collection": "GZP-Label-Cutters",
+   "name": "SAGA LC30 Pro A Roll-to-Roll Label Cutter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "watermarked",
+    "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\LC30PRO-A\\LC30PRO-A_01_hero.jpg",
+    "note": "no cut-out hero in the brochure",
+    "reframe": {
+     "src": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\LC30PRO-A\\LC30PRO-A_01_hero.jpg",
+     "subject": [
+      2500,
+      1669
+     ],
+     "placed": [
+      1327,
+      886
+     ],
+     "fill_w": 0.69,
+     "fill_h": 0.82
+    }
+   },
+   "gallery": [
+    {
+     "file": "gallery-01.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\LC30PRO-A\\LC30PRO-A_02_gallery01.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-02.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\LC30PRO-A\\LC30PRO-A_03_gallery02.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-03.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\LC30PRO-A\\LC30PRO-A_04_gallery03.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-04.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\LC30PRO-A\\LC30PRO-A_05_gallery04.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-05.jpg",
+     "tier": "watermarked",
+     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\LC30PRO-A\\LC30PRO-A_06_gallery05.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    }
+   ],
+   "brochure": {
+    "file": "LC30PRO-A_brochure.pdf",
+    "tier": "clean",
+    "source": "C:\\CLAUDE\\SagaCNC\\harvest\\docs\\LC30PRO_id14_LC_30Pro_DESKTOP_LABEL_MACHINE.pdf"
+   }
+  }
+ }
+}
