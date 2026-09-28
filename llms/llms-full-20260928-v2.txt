@@ -1,0 +1,973 @@
+# GZ Australia - Industrial Digital Printing Equipment for Australia
+
+> GZ Australia is the exclusive Australian distributor for Gongzheng Group digital printing equipment. We supply UV flatbed, DTF, UV DTF, sublimation, eco-solvent, UV roll-to-roll, and UV hybrid printers with local installation, training, and ongoing technical support Australia-wide.
+
+Last updated: 28 September 2026. Plain-text companion to https://www.gzaustralia.com/llms.txt
+
+## Contact
+- Phone: 0422 705 461
+- Email: info@gzaustralia.com
+- Website: https://www.gzaustralia.com
+- Location: Sydney, Australia (delivery and installation Australia-wide)
+
+## What's Included With Every Printer
+All GZ Australia printers include: 2-year machine warranty (components in direct contact with ink, such as print heads and dampers, carry a 7-day warranty; consumables excluded), on-site installation, hands-on training, RIP software licence, starter ink kit, and ongoing technical support. Ink costs $90/litre AUD across UV and DTF ranges.
+
+---
+
+## UV Flatbed Printers
+
+UV flatbed printers print directly onto rigid and semi-rigid substrates using UV-curable ink that cures instantly under LED UV lamps. Applications include acrylic signage, phone cases, tumblers, wood prints, glass, ceramic tiles, leather, PVC, foam board, and promotional products.
+
+| Model | Heads | Print Area | Speed | Price AUD |
+|-------|-------|-----------|-------|-----------|
+| A3HD | 1x Epson i3200-U1HD | 300x420mm | Desktop | $14,990 |
+| H6090EP | 3x Epson i1600 | 600x900mm | Desktop+ | $23,990 |
+| H6090EI | 3x Epson i3200 | 600x900mm | Desktop+ | $29,990 |
+| H9060EI | 2-3x Epson i3200 | 900x600mm | Industrial | $34,990 |
+| H1612GI | Ricoh G5i | 1600x1200mm | Industrial | $48,990 |
+| H1612EI | 4x Epson i3200 | 1600x1200mm | Industrial | $42,990 |
+| H2513GN | 4-12x Ricoh Gen6 | 2500x1300mm | Industrial | Contact |
+| H2513GN PRO | Up to 18x Ricoh G6 | 2500x1300mm | Industrial | $119,990 |
+| H3220GN | 4-18x Ricoh Gen6 | 3200x2050mm | Industrial | Contact |
+
+All UV flatbed models support CMYK + White + Varnish ink configurations for textured/embossed (2.5D) printing effects.
+
+Product pages: https://www.gzaustralia.com/uv-flatbed-solutions
+
+---
+
+## DTF Printers (Direct to Film)
+
+DTF printers produce heat-transfer prints for textiles. Print onto special DTF film, apply powder adhesive, cure, then heat-press onto garments. Works on cotton, polyester, blends, and dark fabrics. Applications include t-shirts, hoodies, sportswear, workwear, bags, and caps.
+
+| Model | Heads | Width | Speed | Price AUD |
+|-------|-------|-------|-------|-----------|
+| Pixy T2 | 2x Epson i3200-A1 | 60cm | 15 sqm/h | $26,990 |
+| Pixy T4 | 4x Epson i3200-A1 | 60cm | 30 sqm/h | $28,990 |
+| Pixy T5 | 5x Epson i3200-A1 | 60cm | 28 m/h | $32,990 |
+
+All Pixy DTF printers are complete integrated systems: printer + powder shaker + curing oven in one production line.
+
+Product pages: https://www.gzaustralia.com/dtf-solutions
+
+---
+
+## UV DTF Printers (AB Film Transfer)
+
+UV DTF printers create instant cold-apply transfers for hard surfaces using A/B film technology. No heat required - peel and stick. Applications include phone cases, drinkware, packaging labels, stickers, promotional items, and custom merchandise.
+
+| Model | Heads | Width | Configuration | Price AUD |
+|-------|-------|-------|--------------|-----------|
+| Pixy U3 | 3x Epson i3200-U1 | 60cm | CMYK+W+V | $27,990 |
+| Pixy U3L | Epson i1600 | 60cm | Entry variant | Contact |
+| Pixy U3T | 3x Epson i3200 | 60cm | Variant | Contact |
+| Pixy U4 PRO | 4 heads | 60cm | Gold/silver foil | Contact |
+
+Pixy U3 includes integrated inline laminator for complete A/B film processing.
+
+Product pages: https://www.gzaustralia.com/uv-dtf-solutions
+
+---
+
+## Sublimation Printers
+
+Dye sublimation printers produce brilliant, permanent prints on polyester fabrics and polyester-coated substrates. Colours are embedded into the material for wash-resistant, fade-resistant results. Applications include sportswear, jerseys, uniforms, flags, banners, mouse pads, and home textiles.
+
+| Model | Heads | Width | Speed | Price AUD |
+|-------|-------|-------|-------|-----------|
+| Apsaras G2 | 2x Epson i3200 | 1.9m | 95 sqm/h | $16,990 |
+| Apsaras G4L | 4x Epson i3200 | 1.95m | 185 sqm/h | $25,490 |
+| Apsaras G4 | 4x Epson i3200 | 1.9m | 185 sqm/h | $31,990 |
+| Apsaras G4-P | 4x Epson i3200 | 1.9m | Pigment ink | $49,990 |
+| Apsaras G5 | 8x Epson i3200 | 1.9m | 363 sqm/h | $49,990 |
+| Apsaras G4D Max | 4x Epson i3200 | 3.2m | 110 sqm/h | $69,990 |
+| Apsaras G5 Max | 8x Epson i3200 | 3.2m | 403 sqm/h | $69,990 |
+
+The Apsaras G4-P is a direct textile pigment printer that works on cotton - not sublimation.
+
+Product pages: https://www.gzaustralia.com/sublimation-solutions
+
+---
+
+## Eco-Solvent Printers
+
+Eco-solvent wide-format printers for outdoor-durable graphics rated for 2+ years. Low-odour inks are more environmentally friendly than traditional solvent. Applications include vehicle wraps, billboards, bus shelter advertising, PVC signage, banners, window graphics, and wallpaper.
+
+| Model | Heads | Width | Speed | Price AUD |
+|-------|-------|-------|-------|-----------|
+| ThunderJet AQ1601S | 1x Epson i3200 | 1.6m | Entry | $13,490 |
+| ThunderJet AQ1602S | 2x Epson i3200 | 1.6m | Production | $15,990 |
+| ThunderJet AQ1802S | 2x Epson i3200 | 1.8m | Production | $17,990 |
+| ThunderJet AQ1804S | 4x Epson i3200 | 1.8m | High-speed | $29,990 |
+| ThunderJet AQ3204S | 4x Epson i3200 | 3.2m | Wide-format | $34,990 |
+| C3202ET PLUS | 2x Epson T3200 | 3.2m | Wide-format | $34,990 |
+| C3204ET PLUS | 4x Epson T3200 | 3.2m | High-speed | $45,990 |
+
+Product pages: https://www.gzaustralia.com/Eco-Solvent-Solutions
+
+---
+
+## UV Roll-to-Roll Printers
+
+UV roll-to-roll printers combine UV-cured ink durability with flexible media handling. LED UV curing means instant drying with no outgassing. Applications include banners, vehicle wraps, window graphics, wallpaper, soft signage, and backlit displays.
+
+| Model | Heads | Width | Speed | Price AUD |
+|-------|-------|-------|-------|-----------|
+| ThunderJet AQ1601UV | 1x Epson i3200 | 1.63m | 15 sqm/h | $17,990 |
+| ThunderJet AQ1602UV | 1-2x Epson i3200 | 1.6m | 19 sqm/h | $22,000 |
+| ThunderJet AQ1602UVZ | 1-2x Epson i3200 | 1.6m | 3/4/5-layer | $24,500 |
+| ThunderJet AQ1902UV | 1-2x Epson i3200 | 1.9m | 20 sqm/h | $35,000 |
+| ThunderJet AQ1902UVZ | 1-2x Epson i3200 | 1.9m | CMYK+W+V | $38,500 |
+| ThunderJet AQ1800UV | 3-4x Epson i3200 | 1.8m | 46.8 sqm/h | $45,000 |
+| ThunderJet AQ32UV | 3-4x Epson i3200 | 3.2m | up to 5-layer | Contact |
+
+The AQ1902UV and AQ1902UVZ replaced the AQ1802UV and AQ1802UVZ in August 2026 - same machines, 1.9m media path instead of 1.8m.
+
+Product pages: https://www.gzaustralia.com/uv-rtr-solutions
+
+---
+
+## UV Hybrid Printers (Belt + Flatbed-Roll)
+
+UV hybrid printers handle both rigid substrates and flexible roll media in one machine. Belt-conveyor systems allow continuous-feed printing on virtually any material. The most versatile UV printer category.
+
+| Model | Configuration | Width | Type | Price AUD |
+|-------|-------------|-------|------|-----------|
+| HB18UV | 3-4x Epson i3200 | 1.8m | Mesh belt, flexible media to 10mm | $44,990 |
+| HB18UV PRO | 3-8x Epson i3200 | 1.8m | Hybrid belt UV, rigid to 40mm + roll | $63,990 |
+
+Product pages: https://www.gzaustralia.com/uv-hybrid-solutions
+
+---
+
+## Accessories
+
+| Product | Description | Price AUD |
+|---------|------------|-----------|
+| SAGA 2.5x1.5m Flatbed Cutter | Contour cutting for UV-printed rigid substrates | $42,990 |
+
+---
+
+## Application Guide - Which Printer Do You Need?
+
+| Application | Recommended Printer | Technology | Starting Price |
+|-------------|-------------------|------------|---------------|
+| Phone cases & small items | A3HD | UV Flatbed | $14,990 |
+| T-shirts & garments (any fabric) | Pixy T2 or T4 | DTF | $26,990 |
+| Stickers, labels, decals (hard surface) | Pixy U3 | UV DTF | $27,990 |
+| Acrylic signage & displays | H6090EI or H1612EI | UV Flatbed | $29,990 |
+| Vehicle wraps & billboards | AQ1602S or AQ1804S | Eco-Solvent | $15,990 |
+| Sportswear & jerseys | Apsaras G2 or G4 | Sublimation | $16,990 |
+| Banners & soft signage (UV) | AQ1602UV or AQ1902UV | UV RTR | $22,000 |
+| Mixed rigid + roll media | HB18UV PRO | UV Hybrid | $63,990 |
+| Large format signage (rigid) | H2513GN or H3220GN | UV Flatbed | Contact |
+| High-volume textiles | Apsaras G5 or G5 Max | Sublimation | $49,990 |
+| Cotton direct printing | Apsaras G4-P | Direct Textile | $49,990 |
+
+---
+
+## Frequently Asked Questions (Australia)
+
+### How much does a UV printer cost in Australia?
+GZ Australia UV printers range from $14,990 AUD (A3HD desktop UV flatbed) to $119,990 (H2513GN PRO industrial UV flatbed). UV flatbed models start at $14,990, UV roll-to-roll from $17,990, and UV hybrid from $44,990. All prices are ex GST and include installation, training, RIP software, starter ink, and 2-year warranty.
+
+### What is the best UV flatbed printer for small business in Australia?
+For small businesses, the A3HD ($14,990) handles phone cases, promotional items, and small signage with a 300x420mm print area. For medium production, the H6090EI ($29,990) offers 600x900mm with 3 Epson i3200 heads. Both include everything needed to start printing.
+
+### What is the best DTF printer in Australia?
+The Pixy T2 ($26,990) is ideal for startups - a complete DTF system with printer, shaker, and oven. For production-level output, the Pixy T4 ($28,990) adds 4 Epson i3200-A1 heads for 30 sqm/h throughput. Both print on any fabric colour including dark garments.
+
+### DTF vs sublimation - which should I buy?
+Choose DTF for multi-fabric printing (cotton, polyester, blends, dark fabrics) and small-batch garments. Choose sublimation for high-volume polyester printing (sportswear, jerseys, flags). DTF offers more versatility; sublimation offers faster production on polyester.
+
+### What can you print with a UV flatbed printer?
+UV flatbed printers print directly onto: acrylic, wood, glass, metal, ceramic tiles, leather, PVC, foam board, phone cases, tumblers (with rotary attachment), signage, packaging, and promotional products. UV ink cures instantly for scratch-resistant, waterproof output.
+
+### Do GZ Australia printers use genuine Epson printheads?
+Yes. GZ Australia printers use genuine Epson i3200 printheads (across DTF, UV flatbed, eco-solvent, sublimation, and UV RTR ranges) and Ricoh Gen6 printheads (industrial UV flatbed models). All replacement heads, consumables, and ongoing technical support are available directly from GZ Australia.
+
+### What warranty do GZ Australia printers come with?
+All GZ Australia machines include a 2-year warranty on the machine. Components in direct contact with ink - print heads, dampers, capping stations, ink lines - carry a 7-day warranty, and consumables are excluded. Installation, training, RIP software, and starter ink kit are included at no extra cost. Ongoing technical support is available by phone from the same person who installs your machine. Full terms: https://www.gzaustralia.com/warranty
+
+### Does GZ Australia deliver and install Australia-wide?
+Yes. GZ Australia provides delivery, installation, and hands-on training at your premises anywhere in Australia. The same person who sells the printer installs it, trains you, and provides ongoing support - no ticket systems or call centres.
+
+### How much does printer ink cost?
+GZ Australia UV and DTF inks cost approximately $90 per litre AUD. Inks and consumables are supplied directly by GZ Australia, with replacement printheads and parts available on demand. Every machine includes installation, training, warranty, and ongoing technical support in the price.
+
+### Can I finance a GZ Australia printer?
+Yes. Finance options are available through third-party providers. Contact GZ Australia for details on equipment finance for your specific printer selection.
+
+### What is the difference between UV DTF and regular DTF?
+Regular DTF uses heat transfer for textiles (t-shirts, fabrics, garments). UV DTF uses cold-apply adhesive for hard surfaces (phone cases, tumblers, packaging, labels, stickers). They serve completely different markets and are not interchangeable.
+
+### What software do GZ Australia printers use?
+DTF printers use Onyx DTF RIP software. UV flatbed and UV RTR printers use FlexiPRINT UV or Onyx RIPCenter. Eco-solvent printers use FlexiPRINT or Onyx. All RIP software licences are included with the printer purchase.
+
+### How do I choose between UV flatbed models?
+Choose by print area: A3HD (300x420mm) for small items, H6090 series (600x900mm) for mid-size, H1612 (1600x1200mm) for large rigid substrates, H2513/H3220 (2.5m+) for industrial-scale production. Epson i3200 heads suit most applications; upgrade to Ricoh Gen6 for maximum industrial throughput.
+
+---
+
+## About GZ Australia
+GZ Australia is the exclusive Australian distributor for Gongzheng Group, one of China's largest digital printing equipment manufacturers (founded 1997, exported to 80+ countries). Based in Sydney, GZ Australia provides the complete Gongzheng printer range with direct local support - no dealer network, no middlemen. Every printer is installed, configured, and supported by the same person who sold it.
+
+## Pricing Notes
+- All prices are in Australian Dollars (AUD), exclusive of GST
+- Freight is quoted individually by location
+- Prices include: installation, training, RIP software, starter ink kit, 2-year warranty
+- For models listed as "Contact" - pricing depends on head configuration. Call 0422 705 461 or email info@gzaustralia.com
+
+## Resources
+- Warranty information: https://www.gzaustralia.com/warranty
+- How to buy: https://www.gzaustralia.com/how-to-buy
+- Installation guide: https://www.gzaustralia.com/what-to-expect-before-delivery
+- Ink cost calculator: https://www.gzaustralia.com/ink-cost-calculator
+- Videos: https://www.gzaustralia.com/videos
+- Blog: https://www.gzaustralia.com/News
+
+---
+
+## UV Flatbed Printers - Full Specifications
+
+### A3HD UV Flatbed Printer
+- Description: Desktop A3 Flatbed UV Printer
+- Price: From $14,990 + Freight
+- Print head: 8 - Channel i3200HD-U1
+- Print area: 300 x 420mm
+- Curing: Air Chilled LED UV Lamp
+- Ink configuration: L.C.M.YLcLm + W + V; C.M.Y.K. + 2 x W + 2 x V
+
+### H6090EP UV Flatbed Printer
+- Description: 600x900mm Desktop Flatbed UV Printer
+- Price: From $23,990 + Freight
+- Print head: 3 x Epson i1600-U1 Print Heads
+- Print area: 600 x 900mm
+- Curing: 3 x Water Chilled LED UV Lamp
+- Ink configuration: K.C.M.Y; W + K.C.M.Y; W + K.C.M.Y. + V
+
+### H6090EI UV Flatbed Printer
+- Description: 600x900mm Desktop Flatbed UV Printer
+- Price: From $29,990 + Freight
+- Print head: 3 x Epson i3200-U1 Print Heads
+- Print area: 600 x 900mm
+- Curing: 3 x Water Chilled LED UV Lamp
+- Ink configuration: K.C.M.Y; W + K.C.M.Y; W + K.C.M.Y. + V
+
+### H9060EI UV Flatbed Printer
+- Description: High-end 900x600mm Flatbed UV Printer
+- Price: From $34,990 + Freight
+- Print head: 2-3 Epson i3200-U1 Print Heads
+- Print area: 900 x 600mm
+- Curing: 4 x Water Chilled LED UV Lamp
+- Ink configuration: K.C.M.Y; W + K.C.M.Y; W + K.C.M.Y. + V
+
+### H1612EI UV Flatbed Printer
+- Description: 1600x1200mm Flatbed UV Printer
+- Price: From $42,990 + Freight
+- Print head: 2-4 Epson i3200-U1 Print Heads
+- Print area: 1600 x 1200mm
+- Curing: 4 x Water Chilled LED UV Lamp
+- Ink configuration: 1 x W + 2 x KCMY; 1 x W + 2 x KCMY+ 1 x V; 4 x KCMY
+
+### H1612GI UV Flatbed Printer
+- Description: Advanced 1600x1200mm Flatbed UV Printer
+- Price: From $48,990 + Freight
+- Print head: 2-4 Ricoh G5 Print Heads
+- Print area: 1600 x 1200mm
+- Curing: 4 x Water Chilled LED UV Lamp
+- Ink configuration: 1 x W + 2 x KCMY; 1 x W + 2 x KCMY+ 1 x V; 4 x KCMY
+
+### H2513GN UV Flatbed Printer
+- Description: Industrial 2.5x1.3m UV Flatbed with Ricoh Gen6 Heads
+- Price: From $89,990 + Freight
+- Print head: 4-12 Ricoh Gen6 Print Heads
+- Print area: 2500x1300mm (Table: 2650x1325mm)
+- Curing: Dual Water Cooling LED UV Lamps
+- Ink configuration: 1xKCMY+1xWW+1xVV (up to 4xKCMY)
+
+### H2513GN PRO UV Flatbed Printer
+- Description: Industrial 2.5x1.3m UV Flatbed with 7~18 Ricoh Gen6 Heads
+- Price: From $119,990 + Freight
+- Print head: 7~18 Ricoh Gen6 Print Heads
+- Print area: Max. 2500x1300mm (Table: 2650x1325mm)
+- Curing: Dual Water Cooling LED UV Curing Lamps
+- Ink configuration: 6xKCMY; 2xWW+6xKCMY; 2xWW+2xKCMY+1xVV
+
+
+## DTF Printers - Full Specifications
+
+### Pixy T2 DTF Printer
+- Description: Compact 60cm DTF Printer with SK2 Shaker and Built-in Smoke Filter
+- Price: From $26,990 + Freight
+- Print head: Dual Epson i3200-A1 Print Heads
+- Ink configuration: K.C.M.Y. + White
+
+### Pixy T4 DTF Printer
+- Description: 10-Colour 60cm DTF Printer with Shaker and Extractor
+- Price: From $28,990 + Freight
+- Print head: Four Epson i3200-A1 Print Heads
+- Ink configuration: 2 x K.C.M.Y. + 2 x White K.C.M.Y + Fo.Fg.Fy.Fm. + 2 x White
+
+### Pixy T5 DTF Printer
+- Description: High-Speed 60cm DTF Printer with 5 Print Heads
+- Price: From $32,990 + Freight
+- Print head: Five Epson i3200-A1 Print Heads
+- Ink configuration: 3x K.C.M.Y + 2x White
+
+
+## UV DTF Printers - Full Specifications
+
+### Pixy U3 UV DTF Printer
+- Description: Professional 60cm UV DTF Printer
+- Price: From $27,990 + Freight
+- Print head: Epson i3200-U1 Print Heads
+- Print area: 600mm Width
+- Curing: Dual Water Chilled UV Lamps
+- Ink configuration: K. C. Y. M. + White + Varnish
+
+### Pixy U3L UV DTF Printer
+- Description: Entry-level 60cm UV DTF Printer
+- Price: From $23,990 + Freight
+- Print head: Epson i1600-U1 Print Heads
+- Print area: 600mm Width
+- Curing: Dual Water Chilled UV Lamps
+- Ink configuration: K. C. Y. M. + White + Varnish
+
+### Pixy U3T UV DTF Printer
+- Description: 60cm UV DTF Garment Embroidery Printer
+- Price: From $29,990 + Freight
+- Print head: Epson i3200-U1 Print Heads
+- Print area: 600mm Width
+- Curing: Dual Water Chilled UV Lamps
+- Ink configuration: W. W. K. C. M. Y (Double White, No Varnish)
+
+### Pixy U4 Pro UV DTF Printer
+- Description: 60cm UV DTF Printer with Gold and Silver Foiling
+- Price: From $41,990 + Freight
+- Print head: Four Epson i3200-U1 Print Heads
+- Print area: 600mm Width
+- Curing: Dual Water Chilled UV Lamps
+- Ink configuration: W + K. C. M. Y + V + GV (Gold Varnish)
+
+
+## UV Roll-to-Roll Printers - Full Specifications
+
+### ThunderJet AQ1602UV UV Roll-to-Roll Printer
+- Description: Entry-Level 1.6m Roll-to-Roll UV Printer
+- Price: From $22,000 + Freight
+- Print head: Epson i3200 U1 Print Head
+- Print area: 1600mm Maximum
+- Curing: Dual Water-Chilled LED UV Lamps
+- Ink configuration: <p class="rteBlock">K.C.Y.M; 2 x K.C.Y.M; W + K.C.Y.M;</p>
+
+### ThunderJet AQ1602UVZ UV Roll-to-Roll Printer
+- Description: Entry-Level 1.6m Roll-to-Roll UV Printer with Mutli-Layer Printing
+- Price: From $24,500 + Freight
+- Print head: Epson i3200 U1 Print Head
+- Print area: 1600mm Maximum
+- Curing: Dual Water-Chilled LED UV Lamps
+- Ink configuration: K.C.Y.M; W + K.C.Y.M
+
+### ThunderJet AQ1902UV UV Roll-to-Roll Printer
+- Description: Business-Ready 1.9m Roll-to-Roll UV Printer
+- Price: From $35,000 + Freight
+- Print head: Epson i3200 U1 Print Head
+- Print area: 1900mm Maximum
+- Curing: Dual Water-Chilled LED UV Lamps
+- Ink configuration: <p class="rteBlock">K.C.Y.M; 2 x K.C.Y.M; </p><p class="rteBlock">W + K.C.Y.M;</p>
+
+### ThunderJet AQ1902UVZ UV Roll-to-Roll Printer
+- Description: Business-Ready 1.9m Roll-to-Roll UV Printer with Mutli-Layer Printing
+- Price: From $38,500 + Freight
+- Print head: Epson i3200 U1 Print Head
+- Print area: 1900mm Maximum
+- Curing: Dual Water-Chilled LED UV Lamps
+- Ink configuration: <p class="rteBlock">K.C.Y.M; W + K.C.Y.M; </p><p class="rteBlock">W + K.C.Y.M. + V</p>
+
+### ThunderJet AQ1800UV UV Roll-to-Roll Printer
+- Description: Industrial 1.8m Roll-to-Roll UV Printer with Varnish Layer
+- Price: From $45,000 + Freight
+- Print head: Epson i3200 U1 Print Head
+- Print area: 1800mm Maximum
+- Curing: Dual Water-Chilled LED UV Lamps
+- Ink configuration: <p class="rteBlock">K.C.Y.M; W + K.C.Y.M; </p><p class="rteBlock">W + K.C.Y.M. + V</p>
+
+### ThunderJet AQ1601UV UV Roll-to-Roll Printer
+- Description: Entry-Level 1.6m Roll-to-Roll UV Printer
+- Price: From $17,990 + Freight
+- Print head: Epson i3200 U1 Print Head
+- Print area: 1630mm Maximum
+- Curing: Air-Cooled LED UV Lamp
+- Ink configuration: <p class="rteBlock">K.C.Y.M.</p>
+
+### ThunderJet AQ32UV UV Roll-to-Roll Printer
+- Description: High Quality 3.2m Roll-to-Roll UV Printer with Multi-Layer Printing
+- Price: Contact Us for Pricing
+- Print head: Epson i3200 U1 Print Head
+- Print area: 3200mm Maximum
+- Curing: Dual Water-Chilled LED UV Lamps
+- Ink configuration: <p class="rteBlock">K.C.Y.M; W + K.C.Y.M; </p><p class="rteBlock">W + K.C.Y.M. + V</p>
+
+
+## UV Hybrid Printers - Full Specifications
+
+### HB18UV UV Hybrid Printer
+- Description: 1.8m Mesh Belt Hybrid UV Printer for Flexible Media
+- Print head: 3~4 Epson i3200-U1 Print Heads
+- Curing: Dual Water Cooling LED UV Curing System
+- Ink configuration: KCMY; KCMY+W; W+KCMY+V
+
+### HB18UV PRO UV Hybrid Printer
+- Description: Industrial 1.8m Hybrid Belt UV Printer for Rigid & Flexible Media
+- Print head: 3~8 Epson i3200-U1 Print Heads
+- Curing: Dual Water Cooling LED UV Lamps
+- Ink configuration: KCMY; KCMY+W; W+KCMY+V
+
+---
+## UV / DTF Buying Guides
+
+### Best UV Printer Australia 2026
+URL: https://www.gzaustralia.com/best-uv-printer-australia
+Compares all UV flatbed, UV roll-to-roll, and UV hybrid models. Price range $14,990 - $63,990 AUD ex GST. A3HD is the entry pick for small business; H6090EI for medium volume; H1612EI/H1612GI for industrial flat work; HB18UV PRO hybrid for mixed rigid + flexible workflows.
+
+### Best DTF Printer Australia 2026
+URL: https://www.gzaustralia.com/best-dtf-printer-australia
+Compares Pixy T2 ($26,990) and Pixy T4 ($28,990). T2 is a 2-head startup system, T4 is 4-head production at 30 sqm/h. Both are complete integrated systems with printer, powder shaker, and curing oven in one line.
+
+### UV Printer vs DTF Printer
+URL: https://www.gzaustralia.com/uv-printer-vs-dtf-printer
+UV prints on rigid substrates (acrylic, wood, glass, phone cases, signage). DTF prints on textiles (t-shirts, hoodies, sportswear, bags). They are complementary not competing technologies. Many shops own one of each.
+
+### UV Printer for Phone Cases Australia
+URL: https://www.gzaustralia.com/uv-printer-phone-cases-australia
+Phone case printing buying guide. A3HD ($14,990) for startup, H6090EI ($29,990) for medium volume, Pixy U3 UV DTF ($27,990) for varied case shapes and curved surfaces. Per-case material cost $1.50 - $3.50, retail $35 - $50, margin 80%+.
+
+### Best UV DTF Printer Australia 2026
+URL: https://www.gzaustralia.com/best-uv-dtf-printer-australia
+Pixy U3L ($23,990), U3 ($27,990), U3T ($29,990), U4 Pro ($41,990) compared. A/B film workflow, throughput, ink cost. U3 is the most popular Australian configuration; U4 Pro for production shops doing 100+ sqm per week.
+
+---
+
+# Full text of key pages
+
+The pages below load their content with JavaScript on gzaustralia.com. Their full text is reproduced here so assistants that do not run JavaScript can read it.
+
+## Buying guide: Best UV Printer Australia 2026
+
+Source: https://www.gzaustralia.com/best-uv-printer-australia
+
+Complete buying guide to UV printers available in Australia - flatbed, roll-to-roll, and hybrid models from $14,990 AUD ex GST. Genuine Epson i3200 and Ricoh Gen6 printheads, installation, training, and 2-year warranty included on every machine.
+
+### What is the best UV printer for small business in Australia?
+
+The A3HD UV Flatbed ($14,990 AUD) is the best entry-level UV printer for small businesses in Australia. It prints on phone cases, promotional items, and small signage with a genuine Epson i3200-U1HD printhead. For medium businesses, the H6090EI ($29,990) offers a 600x900mm bed with 3 Epson i3200 heads. Both include installation, training, RIP software, and 2-year warranty from GZ Australia.
+
+### How much does a UV printer cost in Australia?
+
+UV printers in Australia from GZ Australia range from $14,990 AUD (A3HD desktop flatbed) to $119,990 (H2513GN PRO industrial UV flatbed). UV flatbed models: $14,990 to $119,990. UV roll-to-roll: $17,990 to $45,000. UV hybrid: $44,990 to $63,990. All prices ex GST, include installation, training, and 2-year warranty.
+
+### UV flatbed vs UV roll-to-roll - which should I buy?
+
+UV flatbed printers are best for rigid substrates (acrylic, wood, glass, phone cases, signage) and cylindrical items (bottles, tumblers). UV roll-to-roll printers are best for flexible media (banners, vehicle wraps, window graphics, wallpaper). If you need both, consider a UV hybrid like the HB18UV PRO (from $63,990), which handles rigid and flexible media.
+
+### What substrates can a UV flatbed printer print on?
+
+UV flatbed printers can print directly on acrylic, wood, glass, metal, ceramic tiles, leather, PVC, foam board, corrugated plastic, phone cases, tumblers and bottles (with rotary attachment), packaging prototypes, awards, trophies, and promotional products. UV ink cures instantly under LED lamps for scratch-resistant, waterproof output.
+
+### Do GZ Australia UV printers use genuine Epson printheads?
+
+Yes. GZ Australia UV printers use genuine Epson i3200 printheads (desktop through mid-format models) and Ricoh Gen6 printheads (industrial 2.5m+ models). All replacement heads, consumables, and ongoing technical support are supplied directly by GZ Australia, with installation and training included in every quote.
+
+Phone: 0422 705 461 · Email: info@gzaustralia.com
+
+## Buying guide: Best DTF Printer Australia 2026
+
+Source: https://www.gzaustralia.com/best-dtf-printer-australia
+
+Complete buying guide to DTF printers in Australia. Compare Pixy T2 ($26,990) and Pixy T4 ($28,990) - integrated systems with printer, powder shaker, and curing oven. Epson i3200 heads, installation, training, and 2-year warranty.
+
+### What is the best DTF printer in Australia?
+
+The Pixy T2 ($26,990 AUD) is the best DTF printer for startups in Australia - a complete integrated system with printer, powder shaker, and curing oven. For production-level output, the Pixy T4 ($28,990) offers 4 Epson i3200-A1 heads at 30 sqm/h. Both include installation, training, and 2-year warranty from GZ Australia.
+
+### How much does a DTF printer cost in Australia?
+
+DTF printers from GZ Australia cost $26,990 AUD for the Pixy T2 (2-head) and $28,990 for the Pixy T4 (4-head). Both are complete systems including printer, powder shaker, curing oven, RIP software, starter ink, installation, training, and 2-year warranty. All prices ex GST.
+
+### DTF vs sublimation - which is better for t-shirts?
+
+DTF is better for t-shirts because it prints on ANY fabric colour (including black) and works on cotton, polyester, and blends. Sublimation only works on white/light polyester. DTF is more versatile for custom apparel businesses. Sublimation is better for high-volume polyester sportswear production.
+
+### Can I start a t-shirt printing business with a DTF printer?
+
+Yes. The Pixy T2 ($26,990 AUD) includes everything needed: DTF printer, powder shaker, curing oven, Onyx DTF RIP software, starter ink kit, installation, and hands-on training. GZ Australia provides ongoing technical support. You also need a heat press (not included).
+
+### What ink does a DTF printer use?
+
+GZ Australia DTF printers use GS Original transfer pigment ink in CMYK + White configuration. Ink costs approximately $90 per litre AUD. Inks and consumables are supplied directly by GZ Australia. Dual white ink channels ensure maximum opacity on dark fabrics.
+
+Phone: 0422 705 461 · Email: info@gzaustralia.com
+
+## Buying guide: Best UV DTF Printer Australia 2026
+
+Source: https://www.gzaustralia.com/best-uv-dtf-printer-australia
+
+Pixy U3, U3L, U3T, and U4 Pro compared. UV DTF transfers bond to glass, ceramic, metal, leather, wood, phone cases, mugs, bottles, packaging - any rigid surface. Cold-apply, scratch-resistant, waterproof. From $23,990 AUD ex GST with installation, training, and 2-year warranty.
+
+### What is the best UV DTF printer in Australia?
+
+The Pixy U3 ($27,990 AUD ex GST) is the best all-rounder UV DTF printer in Australia. It uses 3 Epson i3200-U1 heads, a 600mm A/B film width, and produces 8-15 sqm/h of UV DTF transfers for rigid surfaces. For wider production, the Pixy U4 Pro ($41,990) runs 4 Epson i3200 heads with automatic film handling. For lower budget startup, the Pixy U3L ($23,990) runs 3 Epson i1600-U1 heads and entry-level throughput. All include installation, training, RIP, A/B film starter, and 2-year warranty.
+
+### What is UV DTF printing and how does it work?
+
+UV DTF (Direct Transfer Film) prints UV ink onto an A film, then a B laminating film is heat-pressed on top. The combined transfer is a cold-apply sticker that bonds permanently to almost any rigid surface - glass, ceramic, metal, leather, wood, acrylic, phone cases, mugs, bottles, packaging - without needing heat at the application stage. Unlike heat-transfer DTF for textiles, UV DTF is scratch-resistant, waterproof, and rated for outdoor use.
+
+### Pixy U3 vs U3L vs U3T vs U4 Pro - which UV DTF printer should I buy?
+
+Pixy U3L ($23,990) - 3 Epson i1600-U1 heads, entry production, ideal for startups testing the market. Pixy U3 ($27,990) - 3 Epson i3200-U1 heads, balanced throughput, the most popular Australian configuration. Pixy U3T ($29,990) - 3 heads with automated take-up reel for unattended runs. Pixy U4 Pro ($41,990) - 4 Epson i3200 heads, full production line with auto film handling, suitable for shops doing 100+ sqm per week.
+
+### How much does a UV DTF printer cost in Australia?
+
+Pixy UV DTF printers in Australia range from $23,990 AUD ex GST (Pixy U3L entry model) to $41,990 (Pixy U4 Pro four-head production). Prices include the printer, A/B film starter rolls, laminator (where applicable), Epson i3200 printheads, RIP software, CMYK + White + Varnish inks, installation, hands-on training at the Sydney showroom, and 2-year warranty. Ongoing A/B film costs roughly $4-7 per square metre.
+
+### What can I print with a UV DTF printer?
+
+UV DTF transfers stick to almost any rigid or semi-rigid surface: phone cases, mugs, drink bottles, candles, glass jars, ceramic tiles, metal nameplates, leather wallets, wooden gift items, acrylic awards, packaging, signage, hard hats, tool boxes, helmets, and product branding. The transfers are scratch-resistant, waterproof, dishwasher-safe (top-rack), and rated for outdoor use 2-3 years. They will not bond to soft fabrics - for textiles use a regular DTF printer like the Pixy T2 ($26,990) .
+
+### UV DTF vs UV flatbed - which is better?
+
+UV DTF prints onto film that you apply later, so you can print full sheets of mixed designs and apply them to curved or odd-shaped products with no jig setup. UV flatbed prints directly onto the product, requires jigs for repeatable positioning, but is faster per item once set up and uses less consumable per print. Many businesses run both - UV flatbed for high-volume flat items (signage, trophies, promotional flat goods) and UV DTF for varied curved or branded gift items.
+
+### What ink does a Pixy UV DTF printer use?
+
+Pixy UV DTF printers use UV-curable LED ink in CMYK plus White plus optional Varnish. The white ink layer is critical for opacity on dark or coloured products. Inks are supplied directly by GZ Australia and are formulated for Epson i3200 head longevity. Daily head maintenance takes 2-3 minutes (a single nozzle check and capping station clean) and the i3200 heads are rated for 12+ months of typical Australian shop use before replacement.
+
+### Do I need a laminator for UV DTF printing?
+
+Yes. UV DTF requires a B film to be heat-laminated onto the printed A film before transfer. The Pixy U3T and U4 Pro include integrated automatic laminators. The Pixy U3 and U3L ship with a separate manual or semi-automatic laminator. Laminator setup takes about 30 seconds per sheet and the lamination itself takes 10-15 seconds. GZ Australia trains every customer on the full A/B film workflow during installation.
+
+### Can I start a UV DTF business in Australia with one printer?
+
+Yes. The Pixy U3L at $23,990 AUD ex GST is a complete startup package - printer, laminator, A/B film starter rolls, full ink kit, RIP software, installation, training, and 2-year warranty. Most UV DTF businesses target gift items, promotional product printing, or e-commerce custom merchandise. Per-square-metre material cost is roughly $8-12 (film + ink) and a typical sheet of UV DTF transfers retails for $30-80. ROI on a Pixy U3L is typically reached within 4-8 months at moderate sales volume.
+
+### Where can I see a UV DTF printer demo in Australia?
+
+GZ Australia has a Sydney showroom with the Pixy U3, U3L, U3T, and U4 Pro all running daily. Bring product samples (mugs, phone cases, candles, branded gifts) and we will produce live UV DTF transfers for you to apply and assess. Contact info@gzaustralia.com or book through gzaustralia.com.
+
+Phone: 0422 705 461 · Email: info@gzaustralia.com
+
+## Buying guide: UV Printer vs DTF Printer
+
+Source: https://www.gzaustralia.com/uv-printer-vs-dtf-printer
+
+UV and DTF are complementary printing technologies, not competitors. UV prints directly onto rigid substrates (signage, phone cases, promo products). DTF prints onto film for heat transfer to textiles (t-shirts, hoodies, sportswear). Many shops run one of each.
+
+### What is the difference between UV and DTF printing?
+
+UV printing uses ultraviolet-curable ink to print directly onto rigid substrates (acrylic, wood, glass, metal, phone cases). DTF printing uses pigment ink on transfer film that is heat-pressed onto textiles (t-shirts, hoodies, bags). They serve completely different markets and are complementary technologies.
+
+### Should I buy a UV printer or DTF printer for my business?
+
+Buy a UV printer if you print on hard/rigid surfaces: signage, phone cases, promotional products, packaging. Buy a DTF printer if you print on textiles: t-shirts, hoodies, sportswear, bags. Many businesses own both. GZ Australia UV flatbeds start at $14,990 AUD, DTF printers at $26,990 AUD.
+
+### Can a UV printer print on t-shirts?
+
+No. UV printers print on rigid and semi-rigid substrates, not textiles. For t-shirts and garments, you need a DTF printer (for any fabric) or a sublimation printer (for polyester only). GZ Australia Pixy T2 DTF printer starts at $26,990 AUD.
+
+### Can a DTF printer print on phone cases?
+
+No. DTF printers create heat-transfer prints for textiles only. For phone cases and hard surfaces, you need either a UV flatbed printer (prints directly) or a UV DTF printer (creates cold-apply transfers). GZ Australia A3HD UV flatbed starts at $14,990 AUD, Pixy U3 UV DTF at $27,990 AUD.
+
+Phone: 0422 705 461 · Email: info@gzaustralia.com
+
+## Buying guide: UV Printer for Phone Cases Australia
+
+Source: https://www.gzaustralia.com/uv-printer-phone-cases-australia
+
+Phone case printing buying guide for Australian businesses. The A3HD UV Flatbed ($14,990) is the standard entry. The H6090EI ($29,990) handles medium-volume retail production. The Pixy U3 UV DTF ($27,990) wraps curved cases. Per-case material cost $1.50-$3.50, retail $35-$50, margin 80%+.
+
+### What is the best UV printer for phone cases in Australia?
+
+The A3HD UV Flatbed Printer ($14,990 AUD ex GST) is the best entry-level UV printer for phone case printing in Australia. It runs a genuine Epson i3200-U1HD printhead with a 300x420mm bed, fits multiple phone cases per print, and comes with installation, training, RIP software, ink starter kit, and 2-year warranty. For higher volume, the H6090EI ($29,990) prints 6-12 cases per cycle on a 600x900mm bed using 3 Epson i3200-U1 heads. A3HD product page · H6090EI product page
+
+### Can a UV printer print on TPU phone cases?
+
+Yes. UV printers print directly onto TPU, polycarbonate, silicone, leather, wood, and aluminium phone cases. TPU and silicone cases need a flexible UV ink adhesion primer and slightly reduced curing intensity to prevent ink cracking when the case flexes. The A3HD and H6090EI both ship with white ink for full opacity on dark or coloured cases, and the LED UV lamps cure the print in seconds without warping the case.
+
+### How many phone cases can a UV printer produce per hour?
+
+Throughput depends on the model and case size. The A3HD prints 4-6 phone cases per print cycle (roughly 60-90 cases per hour at high quality). The H6090EI fits 12-16 cases per cycle (180-240 cases per hour). The H1612EI ($42,990) with a 1600x1200mm bed handles 50+ cases per cycle, suitable for batch production for retail or marketplaces.
+
+### Do I need a jig to print on phone cases with a UV printer?
+
+Yes. A simple flat jig holds cases in fixed positions so the print aligns with the camera cutout and edges every time. GZ Australia includes printable jig templates with the A3HD, H6090EI, and H9060EI. You can cut jigs from MDF or 3mm acrylic on a CNC, laser cutter, or even by hand for low-volume production. For curved or wraparound case printing, a UV DTF printer like the Pixy U3 ($27,990) gives more flexibility because the transfer film conforms to curves.
+
+### What is the difference between UV flatbed and UV DTF for phone cases?
+
+A UV flatbed prints directly onto a flat case held in a jig - faster per cycle, lower consumable cost, sharper colour. A UV DTF printer (like the Pixy U3, $27,990) prints onto AB film that is laminated and applied as a cold transfer to any rigid surface including curved cases, edges, and odd shapes. For volume production of standard flat cases choose a UV flatbed. For varied case shapes, branded boxes, custom one-offs, or wraparound graphics choose UV DTF.
+
+### Can I start a phone case printing business with a UV printer?
+
+Yes. The A3HD UV Flatbed at $14,990 AUD ex GST is the standard starter package - it includes the printer, RIP software, white ink, CMYK inks, jig templates, installation, training, and 2-year warranty. Most phone case businesses also need a print artwork tool (Photoshop, Illustrator, or Affinity), a small CNC or jig-cutting setup, and case stock. Margins on UV-printed phone cases are typically 70-85% on a $35-50 retail case with about $2-4 of materials cost.
+
+### What ink do UV phone case printers use?
+
+GZ Australia UV flatbed printers use UV-curable LED ink in CMYK plus white, plus optional varnish. The A3HD and H6090EI use 6-channel configuration (CMYK + W + W) for full opacity on dark cases. UV ink cures instantly under LED lamps, is scratch-resistant, waterproof, and dishwasher-safe on phone cases. Ink consumption is roughly 0.05-0.15ml per phone case depending on coverage and white ink layer.
+
+### How much does it cost to print a phone case with a UV printer?
+
+Per-case material cost on a UV flatbed is approximately $1.50-$3.50 in ink and primer, plus $1-$3 for the blank case. At a $35-50 retail price the margin is 80%+ before labour. The A3HD pays back in 600-1000 cases at typical Australian retail pricing. GZ Australia provides full pricing breakdowns and ROI calculations during the showroom demo at our Sydney facility.
+
+### Where can I see a UV phone case printer demo in Australia?
+
+GZ Australia has a permanent showroom in Sydney with all UV flatbed and UV DTF models running daily. Bring sample cases or design files - we will print them on the A3HD, H6090EI, and Pixy U3 so you can compare quality, throughput, and finish before deciding. Contact info@gzaustralia.com or book direct through gzaustralia.com to arrange a visit.
+
+Phone: 0422 705 461 · Email: info@gzaustralia.com
+
+## About GZ Australia
+
+Source: https://www.gzaustralia.com/About-Us
+
+## Introducing Australia to the new generation of printing.
+
+Industrial printing equipment, sold and supported by us. Direct to you.
+
+A free 15-minute call to talk through your work.
+
+A3HD UV Flatbed
+
+### The mission at GZ Australia
+
+After 15 years in the digital printing industry , I kept seeing the same two tough options put in front of buyers. On one side, legacy brands selling outdated, slow and un-innovative machines for ridiculous prices and somehow more expensive aftercare and consumables. Even worse, after 10 years they decide the machines are now too expensive and hard for them to support, so the customer ends up stranded. On the other hand, there are the cheap machines shipped in from unknown, untested overseas suppliers. You've heard the horror stories of people purchasing directly from dodgy factories, and even through Australian businesses that don't know what they're getting into. These come with an array of build problems, lack of support and no locally stocked consumables.
+
+Neither felt like the right solution. So I built GZ Australia to do it differently, offering the newest and most competitive machines from only the most reliable manufacturers, ones I have worked with and tested around the globe.
+
+"If I can't guarantee a machine's a good fit,
+
+I won't sell it to you."
+
+This goes beyond just ensuring the professional support and knowledge of every machine I sell. Making sure both you, the machine, and GZ Australia work together well into the future is the standard with every install, even if it means saying no or sending you to another supplier until you're ready to purchase down the track. With an extensive and growing list of professional partners internationally and locally, I am here to support Australian businesses into the next generation of industrial print solutions, backed by affordable, production-made machines, supported by strong manufacturing standards.
+
+### What's included with every purchase
+
+#### Installation & setup
+
+We set your machine up properly, ready to run. Delivery is quoted for your location.
+
+#### On-site training
+
+We train your team in person so you're confident from day one.
+
+2 YR
+
+#### 2-year warranty
+
+Real cover backed by us, included as standard with every machine.
+
+#### Australia-wide support
+
+Direct help from the same people, wherever you are. One phone call away.
+
+### 80+ models. 10+ print technologies. One honest price.
+
+From UV flatbed and dye sublimation to DTF, UV DTF, eco-solvent and more - all backed by genuine Epson and Ricoh printheads and GZ Australia direct support.
+
+Talk through the right machine for you
+
+### All it takes is one phone call.
+
+No call centre, no ticket queue. This is the GZ Australia team, the same people from first enquiry to install day and every service call after.
+
+Sales, installs and training. The person you talk to before you buy is the same one standing next to the machine on install day.
+
+Keeps every enquiry moving - specs, honest pricing and straight answers on which machine fits your work and which doesn't.
+
+Our QLD-based tech - on-the-ground service, installs and hands-on help for customers north of the border.
+
+Behind the campaigns, socials and print samples you see from us every week - all made on the same machines we sell.
+
+Sydney showroom. Central Coast warehouse. Demo sites with customers. Technicians in Sydney, Melbourne, Perth and Queensland. Installs and training wherever you print, from Perth to Tasmania.
+
+Where you can find us and our
+
+### Australia-wide support.
+
+22
+
+States are shaded by how many machines we look after there. Zoom in for pins: suburb-level and unnamed, GZ machines by model, other machines by type only.
+
+#### Chatswood, Sydney
+
+Machines on display and running. Book a time, bring your own artwork and watch a real job print before you commit.
+
+Book a showroom visit
+
+#### Multiple demo sites with customers
+
+See a machine running in a working print shop. Please book a call in advance and we're happy to put you in contact with one to visit.
+
+#### Central Coast, NSW
+
+Parts, inks and consumables stocked locally and shipped Australia-wide. We know you need parts fast.
+
+#### Australia-wide
+
+Technicians in Sydney, Melbourne, Perth and Queensland, available all across Australia. No location too remote. No job too far.
+
+### Don't just take our word for it
+
+Karna Sports Apparel, Newcastle
+
+"Jake installed our DTF printer and spent the whole day training us. Three months later we called with an issue at 7pm and he picked up and came out the next morning."
+
+Aus Tourist Souvenirs, Sydney
+
+"We were quoted $28k more for the same machine from another distributor. Jake gave us honest pricing, better support, and we've had zero issues since."
+
+"GZ Australia has saved me two machines now. When you find someone who actually knows what they're talking about and backs their products, you stick with them."
+
+#### Find GZ Australia on Google
+
+Bought a machine from us? A two-minute Google review helps other Australian print businesses find honest gear.
+
+Leave us a review
+
+### Questions we get every week
+
+Do you offer finance?
+
+Yes. Equipment finance can be arranged with payment plans structured around your cash flow. Ask when you enquire and we'll point you in the right direction.
+
+What's included with a machine purchase?
+
+Every machine includes installation, hands-on training at your site, starter consumables and a 2-year warranty. Delivery is quoted separately for your location, so you know the full cost before you commit. We don't leave until you're printing confidently.
+
+How fast can you deliver?
+
+Stock machines ship within 1-2 weeks. Machines made to order take approximately 30 days to manufacture plus 30 days sea freight, so around 60 days from order. You get accurate timelines upfront - no surprises.
+
+Can I see a machine running before I buy?
+
+Absolutely. We have machines on display and running at our Chatswood showroom in Sydney, plus multiple demo sites with customers. Please book a call in advance and we're happy to put you in contact with one to visit, or set up a hands-on demo with your own artwork.
+
+What if I'm not in NSW?
+
+We support customers Australia-wide - we've installed machines from Perth to Tasmania, and we have technicians in Sydney, Melbourne, Perth and Queensland. Remote installation and training are available, with ongoing phone and video support wherever you are.
+
+Do you service machines you didn't sell?
+
+We focus on supporting our own customers to keep service standards high. If you bought elsewhere and need help, book a call and we'll see what we can do.
+
+### Come see it print.
+
+Book a demo at our Sydney showroom or one of our customer demo sites and watch a machine run your work before you commit to anything.
+
+## GZ Australia Warranty - full terms
+
+Source: https://www.gzaustralia.com/warranty
+
+Standard Warranty: 2 years (24 months) on the machine
+
+Ink-contact components: 7 days (print heads, dampers, capping stations, pumps, ink lines)
+
+Consumables: not covered (defects in workmanship only - see Section 12)
+
+Coverage: Defects in materials and workmanship
+
+### 1. About This Warranty
+
+This warranty is provided by GZ Australia for products imported and sold in Australia.
+
+GZ Australia PO Box 441, Mona Vale, NSW 1660 Phone: 0422 705 461 Email: info@gzaustralia.com
+
+### 2. Your Consumer Rights
+
+This warranty is in addition to your rights under Australian Consumer Law. To the extent permitted by law, GZ warrants that products shall be free from defects in materials and workmanship for two (2) years from the date of invoice (except ink-contact components - see Section 5), provided:
+
+- The product was purchased new in Australia from GZ Australia or an authorised dealer
+
+- The product was not purchased for resale
+
+- The product was purchased with full warranty (or with express written approval from GZ Australia)
+
+GZ Australia limits liability for any breach of warranty to: performing repairs, replacing parts, supplying equivalent products, or paying for repair/replacement costs.
+
+### 3. No Representation of Suitability
+
+GZ Australia makes no warranty or representation that:
+
+- The product will suit your specific requirements
+
+- The product will perform to any level of expectation when using third-party media
+
+- Operation will be error-free, uninterrupted, or secure
+
+- All defects not affecting performance will be corrected
+
+### 4. Standard 2-Year Warranty
+
+Machines are warranted to be free of fault in workmanship and materials for two (2) years from the date of invoice, provided:
+
+- The product was correctly installed by a GZ Australia authorised technician
+
+- The product has been used under normal operating conditions as per its manuals
+
+- The product has not been altered or modified
+
+- The warranty claim was received and approved by GZ Australia
+
+- The product uses GZ-approved inks, parts, and consumables
+
+Ink-contact components and consumables carry their own terms - see Sections 5 and 12.
+
+### 5. Ink-Contact Components - 7-Day Warranty
+
+Components in direct contact with ink - including print heads, dampers, capping stations, pumps, and ink lines - are warranted for seven (7) days from the date of invoice (or installation, where installed by GZ Australia).
+
+These are wear components: their service life depends on ink handling, daily maintenance, and the operating environment, all of which are outside GZ Australia's control. Correct daily maintenance as per the operation manual and the use of GZ-approved inks are conditions of any claim.
+
+### 6. Warranty Service
+
+During the warranty period, at GZ Australia's discretion:
+
+- Warranty repair or replacement does not extend the original warranty period
+
+- Defective parts will be repaired or replaced free of charge
+
+- GZ does not provide loan products or cover hire costs during service
+
+- All replaced parts become the property of GZ Australia - defective parts must be returned within 30 days or will be invoiced at RRP
+
+- For products outside metropolitan areas, the end-user must cover travel costs of service agents
+
+### 7. Warranty Void Conditions
+
+Warranty is void if:
+
+- The product is not properly maintained or serviced at required intervals
+
+- Repairs are attempted by unauthorised personnel
+
+- Non-GZ inks, parts, or consumables are used
+
+- The product is damaged by misuse, accident, negligence, power spikes, or Acts of God
+
+- The product is used outside its intended design or installation
+
+### 8. Reporting Issues
+
+All problems or issues with the product must be reported within 7 days to an authorised dealer or to GZ Australia directly.
+
+### 9. Items Not Covered
+
+Warranty does not cover:
+
+- Consumables (inks, films, powders, cleaning solutions, blades, pads, filters, wipers)
+
+- Consumables used in maintenance or repair
+
+- Relocation costs after installation
+
+- Consequential loss, trade downtime, or economic costs
+
+- Travel costs outside defined service boundaries
+
+- Transfer of warranty to new owners
+
+### 10. Replacement Parts
+
+Replacement parts installed during warranty are covered until the end of the original warranty period or 90 days (whichever is longer). Ink-contact replacement parts carry the 7-day term in Section 5. Parts obtained via parallel import are not covered.
+
+### 11. Accessories & DOA Items
+
+Defective or Dead-on-Arrival accessories or consumables may be replaced free of charge if reported in writing within 3 business days of installation and approved by GZ Australia.
+
+### 12. Consumables
+
+Consumables (ink, blades, pads, filters, wipers, cleaning solutions, etc.) are covered against defects in workmanship only. No guarantee is made as to usable life, as this depends on use. Claims must be made within 7 days of invoice.
+
+### 13. Exclusions
+
+Warranty does not cover damage caused by:
+
+- Misuse, weather, poor installation, or neglect
+
+- Third-party media or consumables past use-by date
+
+- Fair wear and tear (applies to lamps, print heads, pumps, motors, solenoids, etc.)
+
+### 14. Contact Us
+
+All initial warranty inquiries must be made through your dealer or an authorised GZ representative.
+
+GZ Australia Email: info@gzaustralia.com Phone: 0422 705 461 PO Box 441, Mona Vale, NSW 1660
+
+## Book a demo - what happens and FAQs
+
+Source: https://www.gzaustralia.com/book-a-demo
+
+Free 15-minute call
+
+## Book a call with the GZ Australia team
+
+Every print shop is different and why shouldn't their solution be? We are here to help you figure out what the best machine fit is for you. Book in a call so we can get started on your path to a new printer.
+
+STEP 1
+
+##### Tell us the job
+
+What you print now, what you want to print next, and what your current setup will not do.
+
+STEP 2
+
+##### We match the machine
+
+The model that fits the work, what it really costs to run, and lead time. If nothing in the range suits you, we will say so.
+
+STEP 3
+
+##### You decide what is next
+
+Want to see it run? We book a live demo on your artwork at the end of the call. No obligation either way.
+
+You pick the time, we ring you. Mon to Fri 8:00 am to 6:00 pm · Sat 8:00 am to 3:00 pm, Sydney time
+
+### Pick a time
+
+15 minutes · phone · no charge
+
+Every booking is confirmed by email straight away, and we ring you at the time you picked.
+
+### Before you book
+
+Straight answers to what people ask us most. The rest we cover on the call.
+
+#### Which machine fits my work?
+
+That is what the call is for. DTF, UV DTF, UV flatbed, roll-to-roll, sublimation and eco-solvent each suit different jobs and materials, and we will tell you which of ours does not fit. For a head start, our guide compares them side by side.
+
+#### What does it really cost to run?
+
+Ink and media per print, consumables and service. Our calculator works out a per-print ink cost for every GZ technology from real consumption rates, so you can check the numbers before we talk.
+
+#### How soon could I be printing?
+
+Stock machines are typically around 30 days from order; factory-built machines 30 to 60 days. Before dispatch we confirm site access, book the install or freight, and register your serial number and warranty.
+
+#### What warranty comes with it?
+
+Two years on the machine from the date of invoice. Print heads, dampers, capping stations, pumps and ink lines are wear items and carry seven days. Consumables are not covered.
+
+#### Where do I get ink, film and parts?
+
+From us. Ink, film, powder, cleaning fluid and ink-management supplies for the printers we sell, and most machines ship with a starter pack of ink and test media.
+
+#### Can I see it print before I buy?
+
+Yes. After the call we can set up a live video demo on your artwork, or you can come in and watch it run. Print samples on your own artwork and media can also be produced before you order.
+
+Watch the machines run
+
+Can't see a time that suits? Email info@gzaustralia.com with a couple of times that work and we will sort one out.
