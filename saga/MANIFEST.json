@@ -226,7 +226,7 @@
     {
      "file": "gallery-01.jpg",
      "tier": "clean",
-     "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\6698\\6698\\FCT6698_tool-head_four-tool_closeup.jpg",
+     "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\Flatbed Cutters\\6698\\6698\\FCT6698_tool-head_four-tool_closeup.jpg",
      "size": [
       1600,
       1041
@@ -235,7 +235,7 @@
     {
      "file": "gallery-02.jpg",
      "tier": "clean",
-     "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\6698\\6698\\FCT6698_tool-head_cutting_closeup.jpg",
+     "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\Flatbed Cutters\\6698\\6698\\FCT6698_tool-head_cutting_closeup.jpg",
      "size": [
       1600,
       1091
@@ -244,7 +244,7 @@
     {
      "file": "gallery-03.jpg",
      "tier": "clean",
-     "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\6698\\6698\\FCT6698_samples_packaging-boxes_2023-04-23.jpg",
+     "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\Flatbed Cutters\\6698\\6698\\FCT6698_samples_packaging-boxes_2023-04-23.jpg",
      "size": [
       1200,
       1600
@@ -253,55 +253,10 @@
     {
      "file": "gallery-04.jpg",
      "tier": "clean",
-     "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\6698\\6698\\FCT6698_power-switch.jpg",
+     "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\Flatbed Cutters\\6698\\6698\\FCT6698_power-switch.jpg",
      "size": [
       1600,
       1200
-     ]
-    },
-    {
-     "file": "gallery-05.jpg",
-     "tier": "watermarked",
-     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\FCT6698\\FCT6698_02_gallery01.jpg",
-     "size": [
-      1600,
-      1068
-     ]
-    },
-    {
-     "file": "gallery-06.jpg",
-     "tier": "watermarked",
-     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\FCT6698\\FCT6698_03_gallery02.jpg",
-     "size": [
-      1600,
-      1068
-     ]
-    },
-    {
-     "file": "gallery-07.jpg",
-     "tier": "watermarked",
-     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\FCT6698\\FCT6698_04_gallery03.jpg",
-     "size": [
-      1600,
-      1068
-     ]
-    },
-    {
-     "file": "gallery-08.jpg",
-     "tier": "watermarked",
-     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\FCT6698\\FCT6698_05_gallery04.jpg",
-     "size": [
-      1600,
-      1068
-     ]
-    },
-    {
-     "file": "gallery-09.jpg",
-     "tier": "watermarked",
-     "source": "C:\\CLAUDE\\SagaCNC\\duda\\images_EVALUATION_ONLY\\FCT6698\\FCT6698_06_gallery05.jpg",
-     "size": [
-      1600,
-      1068
      ]
     }
    ],
@@ -309,7 +264,8 @@
     "file": "FCT6698_brochure.pdf",
     "tier": "clean",
     "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\6698\\6698\\FCT6698_brochure.pdf"
-   }
+   },
+   "gallery_note": "2026-09-30: 5 watermarked website shots removed (Jake: clean 6698); chassis views still held"
   },
   "ASC1907A": {
    "collection": "GZP-Sheet-Cutters",
