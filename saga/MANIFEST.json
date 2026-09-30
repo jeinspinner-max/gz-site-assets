@@ -1060,6 +1060,63 @@
     "tier": "clean",
     "source": "C:\\CLAUDE\\SagaCNC\\harvest\\docs\\LC30PRO_id14_LC_30Pro_DESKTOP_LABEL_MACHINE.pdf"
    }
+  },
+  "FC-100D1": {
+   "collection": "GZP-Flatbed-Cutters",
+   "name": "SAGA FC-100D1 Auto Sheet-Feeding Flatbed Cutter",
+   "hero": {
+    "file": "hero.png",
+    "tier": "clean",
+    "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\Flatbed Cutters\\FC100D1\\FC100D1\\FC-100D1_hero.png",
+    "note": "factory folder 2026-09-30, alpha cut-out, checked by eye at native size - no watermark",
+    "reframe": {
+     "src": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\Flatbed Cutters\\FC100D1\\FC100D1\\FC-100D1_hero.png",
+     "subject": [
+      3000,
+      1824
+     ],
+     "placed": [
+      1411,
+      858
+     ],
+     "fill_w": 0.73,
+     "fill_h": 0.79
+    }
+   },
+   "gallery": [
+    {
+     "file": "gallery-01.jpg",
+     "tier": "clean",
+     "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\Flatbed Cutters\\FC100D1\\FC100D1\\FC-100D1_toolhead-closeup.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-02.jpg",
+     "tier": "clean",
+     "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\Flatbed Cutters\\FC100D1\\FC100D1\\FC-100D1_touchscreen.jpg",
+     "size": [
+      1600,
+      1068
+     ]
+    },
+    {
+     "file": "gallery-03.jpg",
+     "tier": "clean",
+     "source": "C:\\CLAUDE\\GongZheng\\Gongzheng\\Alternative Suppliers\\SAGA CNC\\SAGA CNC\\Flatbed Cutters\\FC100D1\\FC100D1\\FC-100D1_right.jpg",
+     "size": [
+      1600,
+      973
+     ]
+    }
+   ],
+   "brochure": {
+    "file": "FC-100D1_brochure.pdf",
+    "tier": "clean",
+    "source": "SAGA factory PDF (sagacnc.com download centre, unwatermarked)"
+   }
   }
  }
 }
